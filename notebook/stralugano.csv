@@ -1,0 +1,1243 @@
+posto,nome,anno,provenienza,squadra,ore,minuti,secondi,decimi
+1,Engelhardt Adriano,1992,Locarno,,0,31,49,1
+2,Repetto Emanuele,1990,I-Camogli (GE),Delta Spedizioni,0,32,16,8
+3,Huber Erich,1981,Rechthalten,LAT Sense,0,33,25,5
+4,Buffa Nicola,1984,I-Vicenza (VI),VICENZA MARATHON,0,33,31,8
+5,Maffongelli Marco,1988,S. Pietro,,0,34,29,4
+6,Boggini Ivan,1980,Oberengstringen,UBS TEAM,0,35,9,1
+7,Nogara Stefano,1979,I-Grandola Ed Uniti (CO),G.S.A. COMETA ASD,0,35,40,0
+8,Pezzani Luca,1987,Rivera,AS Monteceneri,0,35,42,7
+9,Lanzone Fabio,1998,I-Rivara (TO),ATLETICA SETTIMESE,0,35,48,1
+10,Losa Alessandro,1974,I-Luino (VA),TEAM GABBANI,0,36,4,8
+11,Puricelli Christian,1985,Porza,Comacina Atleti.eu,0,36,14,3
+12,Barbera Marco,1988,I-Como (CO),IMPLENIA SVIZZERA SA,0,36,36,2
+13,Casari Giuliano,1974,I-Calderara di Reno (BO),GS Gabbi,0,36,53,7
+14,Perri Dario,1984,I-Castiglione Olona (VA),marathon max,0,37,11,4
+15,Werthmüller Samuel,1992,Cressier FR,LCA Bärn,0,37,12,1
+16,Rigamonti Fabio,1974,I-Cugliate Fabiasco (VA),,0,37,21,3
+17,Corsi Siro,1999,Novaggio,,0,37,39,5
+18,Ferrari Roberto,1968,Giubiasco,GAB Bellinzona,0,37,40,0
+19,Genovese Gaetano,1959,S. Antonino,IMPLENIA SVIZZERA SA,0,37,41,4
+20,Mozzini Luca,1971,Camorino,RC Bellinzona,0,37,47,7
+21,Ferlenghi Claudio,1973,I-Germignaga (VA),IMPLENIA SVIZZERA SA,0,38,12,6
+22,Agostino Ninone Danilo,1986,I-Gorla Maggiore (VA),,0,38,15,9
+23,Ghirimoldi Alessio,1981,I-Turate (CO),Polisportiva Salus Gerenzano,0,38,20,5
+24,Massera Fabio,1968,Isone,SAIM Isone/Medeglia,0,38,25,8
+25,Colecchia Vincenzo,1984,I-Cantù (CO),,0,38,29,8
+26,Bianchi Luca,1963,I-Milano (MI),S.Club lib. Sesto,0,38,34,2
+27,Jeckelmann Adrien,1994,Vugelles-La Mothe,VO2 Sport-TRYverdon,0,38,44,2
+28,Martinelli Paolo,1999,Lugaggia,StudioVezia Triathlon Team,0,38,50,8
+29,Buscaglia Andrea,1971,I-Gravellona Toce (VB),Linnea Running Team,0,38,58,8
+30,Gambonini Davide,1968,Gnosca,GAB,0,39,0,9
+31,Altendorfer Siegmund,1983,Canobbio,USC Capriaschese,0,39,4,8
+32,Candolfi Sandro,1983,Gordola,viva la gnocca,0,39,13,6
+33,Balestra Alex,2001,Ponte Capriasca,ZURIGO ASSICURAZIONI,0,39,14,1
+34,Mideo Giuseppe,1977,Gnosca,,0,39,15,5
+35,Lovato Christian,1981,I-Luino (VA),,0,39,18,6
+36,Pellizzaro Alessandro,1978,I-Gravedona (CO),Atletica Alto Lario,0,39,25,7
+37,Pianta Pablo,1972,Lugaggia,Croce Verde Lugano,0,39,26,6
+38,Galli Stefano,1977,Stabio,TRI TEAM TICINO,0,39,33,3
+39,Gottardi Mattia,1975,Intragna,,0,39,42,3
+40,Hines Alexander,1989,Olten,,0,39,43,3
+41,Lamperti Davide,1989,Breganzona,,0,39,50,0
+42,Ghidossi Michele,1975,Camorino,Bozom Team,0,39,56,6
+43,Foglia Luca,1962,Riazzino,VIRTUS LOCARNO,0,40,0,0
+44,Bolis Gianluca,1981,Claro,Segui lo zio,0,40,1,7
+45,Almeida Direito Christoph,1973,Muzzano,IBSA,0,40,10,5
+46,Kühne Thomas,1978,Chur,Huber Clan,0,40,11,5
+47,Mitrovic Jovan,1991,Breganzona,A-Club Savosa,0,40,13,3
+48,Guglielmetti Gianni,1986,Porza,Gold Savosa,0,40,14,4
+49,Beninca Alessio,1971,Agno,Frecce Gialle Malcantone,0,40,20,9
+50,Murello Sebastian,1976,Lugano,,0,40,21,3
+51,Mauri Fausto,1974,Davesco-Soragno,A-Club Triathlon Team,0,40,22,6
+52,Gallucci Nicola,1986,Locarno,Migros Ticino,0,40,24,3
+53,Pagnamenta Stefano,1989,Cadro,IMPLENIA SVIZZERA SA,0,40,25,9
+54,Soldati Elia,1989,I-Carlazzo (CO),Atletica Alto Lario,0,40,29,8
+55,Ferrario Davide,1978,Novazzano,PRECICAST RUNNING TEAM,0,40,32,6
+56,Caron Ivan,1970,Piazzogna,,0,40,33,4
+57,Calandra Salvatore,1989,I-Varese (VA),Run Card Italia,0,40,34,3
+58,Basoli Andrea,1972,I-Varese (VA),,0,40,35,3
+59,Pightling Christopher,1986,Lugano,,0,40,39,7
+60,Longhi Davide,1981,I-Luino (VA),Marci Runners,0,40,41,6
+61,Cruceli Battista,1970,Camorino,Triteamticino,0,40,42,7
+62,Guidi Marco,1992,Arogno,Njoj Triathlon Varese,0,40,48,2
+63,Giacomini Riccardo,1983,Tenero,Tri Team Ticino,0,40,51,2
+64,Pierobon Giovanni,1968,Pregassona,UBS TEAM,0,40,51,8
+65,Ramelli Nicola,1963,Grancia,VB Personal Trainer Lugano,0,40,52,3
+66,Wolff Federico,1986,Lugano,,0,40,52,8
+67,Ghidini Fabrizio,1974,Breganzona,,0,40,53,7
+68,Solari Andrea,1970,Vezia,UBS TEAM,0,41,1,5
+69,Pestoni Davide,1992,Monte Carasso,ciao mamma,0,41,11,2
+70,Carrard Justin,1989,Biel/Bienne,Triathlon Club Seeland,0,41,12,0
+71,Mallozzi Daniele,1977,Lugano,,0,41,17,8
+72,Lombardi Mauro,1972,Lostallo,Splash e Spa Tamaro,0,41,18,7
+73,Fuschetto Carmine,1965,Roveredo GR,IMPLENIA SVIZZERA SA,0,41,18,9
+74,Gaetti Riccardo,1976,Pregassona,TEAM GABBANI,0,41,22,0
+75,Brentini Vincent,1990,Campello,OCR Ticino,0,41,30,8
+76,Gysin Sebastiano,1983,Rovio,AS Rovio,0,41,33,3
+77,Pagnamenta Ivan,1985,Villa Luganese,IMPLENIA SVIZZERA SA,0,41,33,9
+78,Moghini Francesco,1981,Comano,SAM Massagno,0,41,35,8
+79,Zellweger Igor,1988,Savosa,MySportCoach,0,41,42,3
+80,Armellin Nicola,1981,Ruvigliana,,0,41,45,0
+81,Di Bartolomeo Roberto,1979,Claro,Cichia Runners,0,41,45,5
+82,Stutz Julian,1991,Carona,,0,41,45,6
+83,Prosperi Matteo,1973,Paradiso,,0,41,48,8
+84,Font Joaquim,1988,Rorschach,TRI Club Bodensee,0,41,52,3
+85,Berri Paride,1982,Muzzano,ARDCL-Ass. Ric. Dip. Comune di,0,41,52,5
+86,Moro Simone,1985,Biasca,IMPLENIA SVIZZERA SA,0,41,53,7
+87,Leva Fabio,1984,I-Solbiate Comasco (CO),City Running Team,0,42,0,1
+88,Leiggener Karl,1961,Visp,Rhone Runners,0,42,0,8
+89,Torri Andrea,1992,I-Gravedona (CO),Atletica centro lario,0,42,9,0
+90,Barenghi Andrea,1980,I-Magenta (MI),,0,42,9,2
+91,Via Gabriele,1973,Lugano,CARDIOCENTRO TICINO LUGANO,0,42,12,1
+92,Artusi Ambrogio,1975,I-Introbio (LC),Polisportiva pagnona,0,42,14,5
+93,Rodlberger Mario,1979,Ebikon,adidas Schweiz,0,42,18,3
+94,Steens Luca,1976,Gentilino,,0,42,19,1
+95,Christen Michael,1984,Zürich,,0,42,20,2
+96,Dathe Markus,1974,D-Küssaberg,LG Hohenfels,0,42,20,6
+97,Conconi Giuliano,1976,I-Varese (VA),,0,42,21,9
+98,Soggetti Dennis Giovanni,1974,I-Gravedona (CO),ATLETICA ALTO LARIO,0,42,24,4
+99,Magnani Fabio,1988,Agno,,0,42,26,6
+100,Gerber Sebastien,1980,Solduno,I pelatos,0,42,27,5
+101,Roth Samuel,1978,Zürich,LAC TV Unterstrass,0,42,28,1
+102,Trippel Ralph,1968,Comano,,0,42,28,8
+103,Storni Achille,1996,Lugaggia,Sureggio,0,42,32,9
+104,Bomio Mattia,1975,Cadenazzo,UBS TEAM,0,42,33,0
+105,Saiu Emanuele,1973,I-Vedano Olona (VA),,0,42,36,9
+106,Belli Gabriele,1974,I-Milano (MI),Road Runners Club Milano,0,42,41,5
+107,Mufatti Alex,1979,I-Cittiglio (VA),I3,0,42,45,4
+108,Blandino Davide,1971,I-Limido Comasco (CO),IMPLENIA SVIZZERA SA,0,42,53,1
+109,Zanotta Luca,1968,I-Nesso (CO),ECSA Runners,0,42,54,3
+110,Pittella Marcello,1978,I-Luino (VA),,0,42,54,9
+111,Esteve Joan,1976,E-Palma,Run Me Tender,0,42,58,6
+112,Maffongelli Mario,1951,S. Pietro,,0,42,58,9
+113,Lazzeri Matteo,1986,Vacallo,,0,42,59,5
+114,Fjalldal Halldor,1979,Fehraltorf,Laugaskokk,0,43,1,3
+114,Scarpazza Flavio,1969,I-Clivio (VA),limax,0,43,1,3
+116,La Cagnina Manuel,1989,Camorino,,0,43,1,9
+117,Tavasci Michele,1983,I-Samolaco (SO),TAVA BROs,0,43,2,6
+118,Gusmeroli Manuel,1988,Rovio,,0,43,4,9
+119,Aureli Paolo,1976,I-Dongo (CO),alto lario,0,43,5,1
+120,Bodio Riccardo,1986,Novazzano,RB TRAINING,0,43,6,0
+121,Lopes Antonio,1976,Morbio Inferiore,Migros,0,43,8,5
+122,Mitrovic Ivan,1994,Breganzona,A-Club Swimming Team,0,43,12,8
+123,Oleggini Francesco,1986,Bellinzona,,0,43,12,9
+124,Anzini Vittorio,1966,Losone,SAM Massagno,0,43,18,2
+125,Setter Umberto,1992,Viganello,,0,43,19,3
+126,Vitelli Massimo,1969,I-Montano Lucino (CO),TEAM GABBANI,0,43,21,7
+127,Binda Roberto,1980,I-Maccagno con Pino e Ved,,0,43,24,2
+128,Bossi Marco,1984,Cadro,Tri Team Ticino,0,43,27,7
+129,Rezzonico Andrea,1990,Cureglia,AIL Team,0,43,28,3
+130,Magarò Omero,1973,I-Rose (CS),,0,43,28,6
+131,Valsangiacomo Luca,1983,Lugano,GYM TONIC,0,43,31,0
+132,Bettoni Gabriele,1988,Airolo,Team Gotthard Skimo,0,43,31,4
+133,Salvadè Stefano,1967,Ligornetto,Vigor Ligornetto,0,43,32,6
+134,Milosavljevic Stefan,1993,Lugano,Cinc Cent Franc,0,43,32,8
+135,Alazraki Marco,1982,Viganello,Tri Team Ticino,0,43,35,8
+136,Rivolta Federico,1984,I-Piantedo (SO),ATLETICA ALTO LARIO,0,43,36,7
+137,Bergomi Saul,1985,Sigirino,Swisstransplant,0,43,37,0
+138,Mazzola Daniele,1964,Montagnola,Tri Team Ticino,0,43,37,5
+139,Lannino Pietro,1968,I-Cologno Monzese (MI),Polisportiva San Marco,0,43,39,2
+140,Pelli Paride,1976,Lugano,,0,43,39,5
+141,Vabanesi Jgor,1980,Porza,AMAG,0,43,40,0
+142,Skory Roberto,1991,Leysin,,0,43,42,2
+143,Kieliger Matthias,1972,Rheinau,,0,43,42,4
+144,Rota Matteo,1975,Castel San Pietro,,0,43,43,6
+145,Duvia Davide,1970,I-Montano Lucino (CO),TEAM GABBANI,0,43,46,2
+146,Demarchi Boris,1974,Riazzino,SPL Locarnese,0,43,47,1
+146,Moiana Luca,1987,I-Sala Comacina (CO),team villa castagnola,0,43,47,1
+148,Trudu Antonello,1971,Rivera,,0,43,49,3
+149,Trentin Sacha,1972,Viganello,ARDCL-Ass. Ric. Dip. Comune di,0,43,49,6
+150,David Simone,1972,Rivera,Velo Club Arbedo-Castione,0,43,50,0
+151,Piatti Davide,1994,Cadro,,0,43,52,5
+152,Corti Paolo,1990,Lugano,ISAAC,0,43,53,6
+153,Ghillioni Claudio,1969,Pregassona,IMPLENIA SVIZZERA SA,0,43,55,3
+154,Cometta Matteo,1991,Biasca,G.S Molinera,0,43,56,1
+155,Valsangiacomo Sergio,1967,Comano,,0,43,56,6
+156,Carneri Giorgio,1964,Lugano,società atletica massagno,0,44,1,0
+157,Galli Roberto,1981,Lugano,Tri Team Ticino,0,44,1,2
+158,Butti Noris,1979,I-Carlazzo (CO),,0,44,6,0
+159,Brusati Paolo,1989,Muzzano,EY,0,44,6,3
+160,Galli Massimiliano,1984,Cadro,UBS TEAM,0,44,7,9
+161,Scartezzini Fabio,1975,Rancate,,0,44,8,9
+162,Mazzocchini Alessandro,1983,Pregassona,Repo SA,0,44,11,3
+163,Agresti Francis,1975,Camorino,MTB Boboteam,0,44,13,3
+164,Feloj Simone,1980,I-Domaso (CO),,0,44,15,6
+165,Genini Mattia,1987,Arbedo,,0,44,16,9
+166,Nicoloso Andrea,1974,Lugano,,0,44,18,0
+167,Rossetti Massimo,1965,S. Antonino,RC Bellinzona,0,44,19,1
+168,Agostinetti Pascal,1973,Torricella,IMPLENIA SVIZZERA SA,0,44,21,2
+168,Conne Flavien,1980,Viganello,Croce Verde Lugano,0,44,21,2
+170,Franchini Luca,1987,Breganzona,,0,44,23,7
+171,Giampani Nicholas,1989,Comano,,0,44,25,5
+172,Morales Villabona Fernand,1980,Lausanne,,0,44,26,8
+173,Mihailov Aleksandar,1988,Locarno,UBS TEAM,0,44,27,0
+174,Dalessi Giordano,1958,Cavergno,SP Locarnese,0,44,27,4
+175,Clinco Michele,1965,Sala Capriasca,ASRC-Cornèr Banca,0,44,29,2
+175,D'Angelis Domenico,1971,Pambio-Noranco,,0,44,29,2
+177,Ceroni Giovanni,1967,I-Cunardo (VA),3V Cittiglio-Varese,0,44,34,1
+178,Wolfisberg Mirko,1981,Airolo,Team Gotthard Skimo,0,44,34,8
+179,Donadelli Fausto,1974,Grancia,,0,44,35,4
+180,Statti Antonio,1981,I-Lavena Ponte Tresa (VA),EDMONDO FRANCHINI SA,0,44,37,6
+181,Da Rin Athos,1970,Tesserete,,0,44,37,8
+182,Carton Julien,1975,Davesco-Soragno,TEAM RETE UNO,0,44,38,3
+183,Soldati Gianluca,1991,Comano,,0,44,41,1
+184,Zingone Luca,1979,I-Varese (VA),ECSA Runners,0,44,43,3
+185,Fini Massimo,1976,Viganello,UBS TEAM,0,44,45,2
+186,Gambarana Bruno,1969,Comano,,0,44,48,4
+187,Lutz Alexander,1988,Pregassona,,0,44,48,9
+188,Montlouis-Calixte Hans,1979,Lugano,,0,44,49,8
+189,Bertoli Erico,1971,Ponte Tresa,EY,0,44,51,5
+190,Eichenberger François,1973,Collombey,,0,44,52,5
+191,Roffler Marcel,1969,Chur,IMPLENIA SVIZZERA SA,0,44,54,1
+192,Zanetti Dila,1981,Bellinzona,,0,44,56,1
+193,Balmelli Mario,1967,Carona,Running Carona,0,44,56,7
+194,Sartorelli Jacopo,1991,I-Malnate (VA),,0,44,59,1
+195,Albertini Patrizio,1957,I-Luino (VA),Marci Runners,0,45,0,4
+196,De Sousa Gianni,1988,Locarno,UBS TEAM,0,45,0,6
+197,Caccia Emanuele,1995,Cugnasco,,0,45,1,6
+197,Zani Robert,1978,Malvaglia,HC Blenio,0,45,1,6
+199,Olvera Nicolas,1992,Montagnola,,0,45,3,4
+200,Cutruneo Michele,1974,Breganzona,,0,45,5,8
+201,Casellini Davide,1988,Lausanne,Croce Verde Running Team,0,45,8,4
+202,Zappa Sergio,1967,Pura,UBS TEAM,0,45,8,9
+203,Russo Luca,1988,I-Ronago (CO),G.S. VILLAGUARDIA,0,45,9,1
+204,Manzoni Davide,1973,I-Lanzo d'Intelvi (CO),Enervit,0,45,14,1
+205,Bardascino Francesco,1984,I-Cunardo (VA),Edmondo Franchini SA,0,45,16,0
+206,Ferrara Maurizio,1970,Novazzano,PRECICAST RUNNING TEAM,0,45,16,7
+207,Mangiagli Fabio,1975,Cresciano,Splendide Royal,0,45,17,1
+208,Petralli Raffaele,1968,Cadro,,0,45,17,2
+209,Pedrazzi Moreno,1967,Gnosca,ALL4ALL,0,45,17,7
+210,Castelli Massimo,1971,I-Oltrona San Mamette (CO,Unione Sportiva Oltronese,0,45,17,8
+211,Capponi Norman,1970,Adliswil,,0,45,20,1
+212,Battistini Massimo,1974,Lugano,Runcard,0,45,21,1
+213,Delprete Pascal,1976,Claro,IMPLENIA SVIZZERA SA,0,45,21,6
+214,Iovine Serafino,1984,S. Antonino,Moesa Runners,0,45,21,9
+215,Maggini Gabriele,1979,Bellinzona,,0,45,24,4
+216,Manetti Alberto,1963,Sementina,RC Bellinzona,0,45,25,5
+217,Bellintani Fabio,1973,I-Grantola (VA),ATL G.S. MIOTTI ARCISATE,0,45,25,8
+218,Stamerra Claudio,1971,Cimo,Endorfina,0,45,25,9
+219,Fonti Christian,1984,Sorengo,Lugano,0,45,31,0
+220,Gilardi Gianluca,1988,I-Valganna (VA),,0,45,31,5
+221,Dupasquier Cédric,1984,Fribourg,,0,45,33,7
+222,Donadini Matteo,1969,I-Clivio (VA),limax,0,45,34,0
+223,Aschwanden Markus,1968,Tenero,,0,45,35,7
+224,Allanson Enzo,2003,Gentilino,,0,45,42,2
+225,Zambetti Giacomo,2001,Minusio,Greenhope sports against cance,0,45,45,6
+226,Rumi Moreno,1960,I-San Siro (CO),,0,45,49,2
+227,Balet Frédéric,1987,Uvrier,,0,45,50,3
+228,Argiolas Silvano,1964,Pregassona,TRI TEAM TICINO,0,45,51,0
+229,Ortalli Saverio,1975,I-Dongo (CO),run&fun,0,45,54,9
+230,Brenna Davide,1980,I-Luino (VA),Runner Card,0,45,55,7
+231,Fauth Lorenzo,1977,Lugano,Swisstransplant,0,45,57,6
+232,Streparava Mauro,1977,I-Carlazzo (CO),,0,45,57,8
+233,Besomi Sacha,1974,Pianezzo,,0,46,1,7
+234,Pedrazzini Francesco,1983,I-Valsolda (CO),Octoplus Group,0,46,3,5
+235,Lungo Angelo,1967,Paradiso,ETAVIS,0,46,3,9
+236,Binetti Nicolas,1979,Agno,,0,46,8,7
+237,Ronconi Davide,1977,Caslano,ECSA Runners,0,46,9,2
+238,Russo Maurizio,1968,I-Viggiù (VA),A.S. Sporterapia,0,46,9,3
+239,Colecchia Daniele,1991,I-Alzate Brianza (CO),,0,46,10,6
+240,Laloli Fabio,1977,Gordola,,0,46,13,5
+241,Cusimano Giuseppe,1978,I-Vibo Valentia (VV),VV373-A.S.D. ATLETICA SAN COST,0,46,13,8
+241,Meneghetti Giorgio,1947,Pianezzo,Gruppo Atletico Bellinzona,0,46,13,8
+243,Leoni Luca,1958,Rivera,Sci Club Tamaro,0,46,17,8
+244,xxxxxxxxx xxxxxxxx,xxxx,xxxxxxxxxxx,runRUNrun,0,46,18,3
+245,Balmelli Raffaele,1966,Breganzona,IMPLENIA SVIZZERA SA,0,46,21,5
+246,Milesi Stefano,1991,I-Valsolda (CO),Freetimeclub,0,46,23,2
+247,Markic Pere,1980,Biasca,,0,46,24,1
+248,Albisetti Gioele,1989,Morbio Inferiore,,0,46,24,3
+249,Bellù Michele,1969,Gentilino,,0,46,26,0
+250,Lepori Christian,1992,Sala Capriasca,,0,46,26,2
+251,Balestra Nicola,1970,Ponte Capriasca,ZURIGO ASSICURAZIONI,0,46,26,6
+251,Rana Dev,1965,Nyon,,0,46,26,6
+253,Di Fazio Andrea,1980,Monte Carasso,IMPLENIA SVIZZERA SA,0,46,27,0
+254,Sahinbay Yusuf,1990,I-Porlezza (CO),,0,46,27,4
+255,Caldara Marco,1959,Caslano,SAM Massagno,0,46,29,2
+256,Vezzoli Tiziano,1965,Agarone,,0,46,29,9
+257,Calà Davide,1975,Bellinzona,50° ATGABBES,0,46,30,2
+258,Lacchei Christian,1983,Gandria,,0,46,31,1
+259,Monga Luigi,1975,I-Carlazzo (CO),,0,46,31,4
+260,Guzzi Igor,1984,Arbedo,IMPLENIA SVIZZERA SA,0,46,31,9
+261,Gutknecht Martin,1972,Magliaso,,0,46,33,0
+262,Biafora Carmine,1986,I-Cugliate Fabiasco (VA),ISOSIL SA,0,46,33,1
+263,Ganga Alex,1991,Giubiasco,,0,46,33,6
+264,Candolfi Nelson,1959,Locarno,Spl,0,46,34,1
+265,Locatelli Andrea,1977,I-Craveggia (VB),VigezzoRun,0,46,34,8
+266,Youssef Mohamed Fadi,1980,Porza,Manor,0,46,35,4
+267,Crivelli Gianni,1951,Ligornetto,Vigor Ligornetto,0,46,36,6
+268,Airoldi Giorgio,1964,Minusio,,0,46,38,4
+268,Houmard Nathanael,1975,Herznach,Brack.ch,0,46,38,4
+270,Corazzini Fausto,1985,S. Pietro,Croce Verde Lugano,0,46,38,8
+271,Bellisano Luca,1979,I-Rodero (CO),A.S. Sporterapia,0,46,39,6
+272,Gatti Luca,1994,Davesco-Soragno,,0,46,40,7
+272,Servida Pietro,1998,Pregassona,Swisstransplant,0,46,40,7
+274,Vaccaro Domenico,1985,Lugano,,0,46,41,2
+275,Ferrari Angelo,1960,I-Agnadello (CR),G.P. Pansècc Agnadello,0,46,43,7
+276,Trotto Tiziano,1976,Pregassona,IMPLENIA SVIZZERA SA,0,46,44,0
+277,Camozzi Emanuele,1965,Pregassona,The King's Runners,0,46,45,2
+278,Dias Hugo,1981,Yverdon-les-Bains,,0,46,45,6
+279,Martinelli Fabio,1964,Piandera Paese,,0,46,47,4
+280,Orfano Raphael,1988,Agno,IMPLENIA SVIZZERA SA,0,46,48,2
+281,Carelli Alessio,1982,I-Ronago (CO),Comal.ch,0,46,49,0
+282,Joss Daniel,1966,Vezia,Panda,0,46,51,3
+283,Gàrate Luis,1967,Cadro,ARDCL-Ass. Ric. Dip. Comune di,0,46,51,9
+284,Bacilieri Christian,1971,Breganzona,,0,46,54,4
+285,Di Stefano Matteo,1986,Lugaggia,,0,46,54,6
+286,Anderlini Jonathan,1989,Claro,Tiramisù Running Team,0,46,56,3
+287,Triani Mauro,1964,Comano,,0,46,58,1
+288,Mambretti Francesco,1975,I-Carlazzo (CO),,0,46,58,2
+289,Gattis Luca,1988,Bellinzona,,0,47,1,3
+290,Bracelli Andrea,1997,Sorengo,,0,47,2,9
+291,Guarneri Emanuele,1969,I-Ponte Tresa (VA),,0,47,3,9
+292,Beretta Davide,1986,Giubiasco,,0,47,6,9
+293,Coscia Alexandro,1981,Giubiasco,CrossFit Ketsui,0,47,7,9
+294,Marchesi Lauro,1985,Molinazzo di Monteggio,AIL Team,0,47,8,3
+295,Mottola Salvatore,1966,Basel,smrun,0,47,9,9
+296,Cossu Remo,1972,Sessa,,0,47,10,0
+297,Segreto Andrea,1982,I-Uggiate Trevano (CO),,0,47,11,5
+298,Petralli Alessio,1955,Vezia,Panda,0,47,12,5
+299,Camponovo Alvaro,1989,Dino,,0,47,14,1
+300,Bernasconi Christian,1980,Cagiallo,,0,47,14,8
+300,Brunella Andrea,1982,I-Gavirate (VA),,0,47,14,8
+302,Masoni Marco,1980,Lugano,IMPLENIA SVIZZERA SA,0,47,16,0
+303,Ferretti Maurizio,1977,Comano,Amici dei grotti,0,47,16,4
+304,Spinosa Claudio,1981,Gordola,,0,47,17,7
+305,Ceres Gerardo,1965,Breganzona,Ceres C'è,0,47,18,2
+306,Marchioni Stefano,1987,I-Beregazzo con Figliaro,IMPLENIA SVIZZERA SA,0,47,20,0
+307,Veronesi Mauro,1970,Savosa,,0,47,20,1
+308,Ricci Giorgio,1974,Lugano,,0,47,22,4
+309,Urbani Marco,1968,Paradiso,,0,47,22,6
+310,Marengo Michele,1978,Sementina,,0,47,23,2
+311,Bernhard Simon,1978,Mesocco,ORBV Running Team,0,47,24,6
+312,Trioni Michele,1970,I-Fino Mornasco (CO),,0,47,25,5
+313,Birth Colin,1987,Lamone,UBS TEAM,0,47,27,1
+314,Autelitano Giovanni Andre,1964,I-Sesto Calende (VA),ASD Atletica Villa Guglielmi,0,47,27,8
+315,Volken Kenan,1975,Brig,,0,47,28,5
+316,Tromp Edwin,1977,NL-Haarlem,,0,47,29,9
+317,Pietropoli Walter,1951,Sala Capriasca,,0,47,33,8
+318,Vanza Fabiano,1958,Monte Carasso,,0,47,34,3
+319,Rossi Francesco,1992,Bissone,,0,47,34,8
+320,Malnati Simone,1971,I-Bisuschio (VA),Atletica Arcisate VA,0,47,35,9
+321,Portaro Carmelo Antonio,1977,Comano,SAM Massagno,0,47,37,9
+322,Vandoni Paolo,1972,Minusio,,0,47,38,3
+323,Gaspari Fabio,1974,Cadenazzo,CO UTOE Bellinzona,0,47,39,7
+324,Genolini Mattia,1984,I-Cantello (VA),,0,47,40,1
+324,Santamaria Claudio,1960,Cugnasco,SPL,0,47,40,1
+326,Cavalleri Federico,1989,I-Inverigo (CO),Clinica Ars Medica,0,47,41,2
+327,Faverio Fabio,1980,I-Como (CO),Comal.ch,0,47,43,5
+328,Civatti Lorenzo,1973,Manno,civa,0,47,44,3
+329,Ferretti Andrea,1988,I-Luino (VA),IMPLENIA SVIZZERA SA,0,47,44,4
+330,Mion Federico,1986,Pregassona,,0,47,46,5
+331,Da Col Stefano,1986,Lugano,Può accompagnare solo M+10,0,47,47,0
+332,Milosevic Mladen,1987,Breganzona,,0,47,49,3
+333,Andreoli Sebastiano,1994,Porza,UBS TEAM,0,47,49,5
+334,Della Cha Andrea,1963,I-Bogliasco (GE),Gruppo Città di Genova,0,47,49,6
+335,Bellotti Igor,1982,I-Arosio (CO),Clinica Ars Medica,0,47,50,5
+335,Nucifora Salvatore,1965,Gordola,SPL,0,47,50,5
+337,Gadoni Alan,1971,Viganello,Crazy Snail Running,0,47,50,7
+338,Esposito Antonio,1970,I-Como (CO),gruppo sportivo polizia locale,0,47,51,6
+339,Quaceci Fabio,1987,Monte Carasso,TEAM RETE UNO,0,47,52,2
+340,Candolfi Nathan,1990,Lugano,PWC LUGANO,0,47,52,6
+341,Sangiorgi Luca,1987,Vezia,Visualab,0,47,53,4
+342,Bosco Enzo,1973,I-Gallarate (VA),Nuova Atletica Samverga ASD,0,47,53,7
+343,Ungricht Jérôme,1985,Zürich,,0,47,54,8
+344,Ungricht Yanick,1988,Kloten,,0,47,54,9
+345,Bravi Ruben,1991,Lugano,,0,47,56,1
+346,Maspoli Edy,1950,Balerna,,0,47,57,2
+347,Pisoni Andrea,1988,Arbedo,,0,47,59,1
+348,Cristofalo Andrea,1989,Bellinzona,Splash e Spa Tamaro,0,47,59,3
+349,Quadri Ermanno,1965,I-Luino (VA),,0,48,0,4
+350,Martinoni Giovanni,1988,Biasca,,0,48,0,8
+351,El Abbar Maher,1987,Gentilino,freetime club,0,48,1,6
+352,Garzoni Manuel,1977,Montagnola,ARDCL-Ass. Ric. Dip. Comune di,0,48,1,8
+353,Scerpella Gianpiero,1965,Rivera,,0,48,2,3
+354,Rezzoli Luciano,1953,Contra,SPL,0,48,2,9
+355,Rubbini Mauro,1976,I-Campione,,0,48,4,7
+356,Gerber Andreas,1972,Canobbio,IBSA,0,48,5,2
+357,Elli Davide,1979,I-Campione d'Italia (CO),,0,48,6,7
+358,Bosshard Michael,1970,Viganello,,0,48,8,2
+359,Vigolo Christian,1974,I-Gemonio (VA),Aptar Mezzovico SA,0,48,8,3
+360,Mondani Gianmarco,1971,Montagnola,,0,48,9,1
+361,Pellegrini Marco,1975,Claro,Claro Pizzo,0,48,9,3
+362,Bronz Manuel,1978,Tenero,,0,48,9,9
+363,Genzoli Pietro,1971,Comano,,0,48,11,3
+364,Wagenbauer Gianni,1968,Lugano,Unione Farmaceutica Distribuzi,0,48,11,5
+365,Croci Riccardo,1982,Lugano,IMPLENIA SVIZZERA SA,0,48,12,1
+366,Giordano Daniele,1982,Sonvico,Team triathlon Ticino,0,48,16,9
+367,Pinelli Marcel,1979,Bellinzona,Segui lo Zio,0,48,19,4
+368,Dalcol Andrea,1989,Massagno,Stonesport-Mt. Ashes Crossfit,0,48,21,9
+369,Gerber Maximilien,1989,Emmen,,0,48,22,6
+370,Tondi Dario,1982,Rovio,,0,48,23,1
+370,White Eric,1971,USA-Sedona,,0,48,23,1
+372,Oern Philip,1987,Agra,UBS TEAM,0,48,26,7
+373,Keller Stefan,1988,Le Mont-sur-Lausanne,,0,48,28,1
+374,Lucadamo Patrick,1983,Bellinzona,Bene Bene,0,48,28,4
+375,Casnedi Tupak,1974,I-Luino (VA),,0,48,28,6
+376,Putzu Gabriele,1977,Breganzona,,0,48,29,2
+377,Dalchow Matthias,1987,Zürich,IMPLENIA SVIZZERA SA,0,48,29,8
+378,Quarenghi Massimo,1976,Losone,,0,48,30,0
+379,Jackson Christopher,1989,Lugano,Diabete Ticino,0,48,31,3
+379,Siena Francesco,1977,Caslano,IMPLENIA SVIZZERA SA,0,48,31,3
+381,Orfano Michel,1986,Viganello,IMPLENIA SVIZZERA SA,0,48,31,6
+382,Palà Mauro,1962,Camorino,RCC,0,48,32,1
+383,Mariotti Ivan,1971,Viganello,Tri Team Ticino,0,48,33,3
+384,Scarponi Massimo,1972,I-Malnate (VA),,0,48,33,5
+385,Merki Lucas,2000,Schaffhausen,,0,48,34,3
+386,Malandrini Nicola,1989,Sementina,,0,48,34,7
+387,Cittoni Matteo,1989,I-Dongo (CO),,0,48,35,0
+388,Merki Daniel,1970,Schaffhausen,SBB Team,0,48,35,6
+389,Vai Mattia,2002,Contone,,0,48,36,4
+390,Zaccheo Axel,1994,Cademario,team villa castagnola,0,48,36,5
+391,Cocco Marco,1982,I-Olgiate Comasco (CO),,0,48,37,6
+392,D'Auria Matteo,1991,I-Porlezza (CO),,0,48,38,7
+393,Barreto Jorge,1987,Viganello,freetime club,0,48,40,4
+394,Sorrentino Daniele,1984,I-Lurago d'Erba (CO),ECSA Runners,0,48,42,2
+395,Perozzi Davide,1979,GB-London,,0,48,42,3
+396,Ghiani Patrizio,1969,I-Luino (VA),TEAM GABBANI,0,48,43,9
+397,Naroyan Armen,1987,Rivera,,0,48,44,1
+398,Coppola Antonio,1963,Claro,CLUB ROYAL DANCE,0,48,45,5
+399,Nuguse Awet,1990,Lugano,PRO SENECTUTE TICINO E MOESANO,0,48,49,2
+400,Amiconi Thomas,1970,Sorengo,Amiconi Consulting SA,0,48,50,6
+401,Fontana Gian Paolo,1964,Chiasso,,0,48,51,3
+402,Ruggero Omar,1993,I-Marchirolo (VA),IMPLENIA SVIZZERA SA,0,48,51,5
+403,Gobbi Elvis,1989,Airolo,,0,48,51,9
+404,Rossi Learco,1964,Bedano,,0,48,52,7
+405,Fenu Mattia,1989,Morbio Inferiore,,0,48,52,9
+406,Rossi Antonio,1952,Canobbio,Movat,0,48,53,7
+407,Galli Giovanni,1977,Lugano,,0,48,54,3
+408,Bordoli Luca,1986,Gentilino,Clinica Ars Medica,0,48,55,1
+409,Torri Ugo,1972,Lugano,,0,48,58,5
+410,Bestetti Davide,1990,I-Guanzte (VA),LIBERO,0,48,58,9
+411,Andreoni Mario,1957,I-Motta Visconti (MI),OLYMPIA TROVO,0,48,59,1
+412,Giudici Mario,1965,Arzo,,0,49,0,3
+413,Tamiati Louis,1999,Carabbia,USC Capriasca Le Caprette,0,49,0,9
+414,Gadola Ezio,1985,I-Chiavenna (SO),,0,49,1,2
+414,Huber Andrea,1981,Bellinzona,,0,49,1,2
+416,Rivera Christian,1972,S. Pietro,Atletica Mendrisiotto,0,49,1,3
+417,Tarchini Andrea,1973,Lugano,CRT,0,49,4,2
+418,Spadaro Paolo,1972,Cureglia,,0,49,4,9
+418,Vaccalluzzo Manlio,1990,Bellinzona,,0,49,4,9
+420,Agatic Anto,1995,Rivera,,0,49,5,0
+421,Feroldi Luigi,1968,I-Azzate (VA),,0,49,5,3
+422,Taminelli Pierguido,1965,Lugano,,0,49,6,9
+423,Perletti Fabio,1979,Lugano,Avaloq,0,49,9,6
+424,Marcacci Raffaele,1995,Isone,Splash e Spa Tamaro,0,49,10,4
+425,Scalzotto Jan,1972,I-Dovera (CR),,0,49,11,1
+426,Di Cecio Valerio,1971,Minusio,Triathlon Team Ticino,0,49,11,3
+427,Censi Camillo,1988,Grono,Promo Team,0,49,12,8
+428,Leonardi Giuseppe,1980,Lugano,CNH Industrial,0,49,14,1
+429,Menna Fabrizio,1977,Agno,Limes,0,49,15,8
+430,Pongelli Erik,1985,Rivera,Aptar Mezzovico SA,0,49,17,0
+431,Maier Julian,1990,Locarno,RaceTeamKMTZ,0,49,18,0
+432,Disca Raffaele,1968,Muttenz,LSV Basel,0,49,20,8
+433,Facchi Cristian,1981,Agno,,0,49,20,9
+434,Huber Michael,1979,Giubiasco,Bambela Runners,0,49,21,1
+435,Ortelli Flavio,1966,Giubiasco,Yuki Runners,0,49,22,4
+436,Da Silva Rodrigues Armand,1971,Lodrino,,0,49,22,7
+436,Grob Oliver,1979,Muralto,HongCore GmbH,0,49,22,7
+438,Poggiali Daniele,1984,Lugano,,0,49,25,1
+439,Barchi Michele,1983,Arosio,,0,49,25,2
+440,Rotolo Rosario,1959,I-Filandari VV (VV),ASD S. Costantino,0,49,26,7
+441,Quaggio Alberto,1992,Viganello,,0,49,28,2
+442,Albertini Tiziano,1968,Sonvico,UBS TEAM,0,49,29,7
+443,Salinetti Giorgio,1979,I-Porlezza (CO),,0,49,30,4
+444,Camnasio Michele,1971,Gravesano,,0,49,30,5
+445,Guidi Daniele,1963,Arogno,Swiss Ice Hockey,0,49,32,7
+446,Ballan Tobia,1992,Stabio,Running Drinkin Team,0,49,34,6
+447,Piatesi Andrea,1975,D-Mannheim,,0,49,34,7
+448,Taccola Federico,1996,Lugano,,0,49,35,2
+449,Giugno Filippo,1976,Brusino Arsizio,AMAG,0,49,35,5
+450,Marzioli Fabio,1983,I-Clivio (VA),,0,49,37,0
+451,Koster Michael,1994,Gossau SG,,0,49,37,7
+452,Sessa Stefano,1986,Morbio Inferiore,Polisportiva Intercomunale,0,49,38,1
+453,Tagliabue Guillaume,2001,Breganzona,,0,49,39,0
+454,Anghileri Davide,1991,Gravesano,GGG,0,49,39,8
+455,Olavarria Juan,1982,Zürich,IMPLENIA SVIZZERA SA,0,49,39,9
+456,Baumann Martin,1965,Ulisbach,,0,49,40,8
+457,Maeder Alain,1966,Vernier,rolex sport,0,49,41,2
+458,Thaler Matthias,1987,I-Brixen (BZ),Asv Pfeffersberg,0,49,42,1
+459,Schipani Stefano,1990,Monte Carasso,ETAVIS,0,49,42,8
+460,Beretta Christian,1973,Airolo,,0,49,48,1
+461,Scalzo Giuseppe,1983,I-Cuasso al Monte (VA),,0,49,48,7
+462,Tromp Robin,1976,NL-Haarlem,,0,49,48,9
+463,De Bernardi Michele,1973,I-Gemonio (VA),,0,49,49,1
+464,Szodenyi Akos,1979,H-Torokbalint,,0,49,49,6
+465,Voci Franco,1968,Torricella,AIL Team,0,49,50,9
+466,Dal Santo Damiano,1983,Ruvigliana,,0,49,51,6
+467,Leone Gianni,1970,Bissone,,0,49,53,8
+468,Fiorillo Pasquale,1968,Mezzovico,,0,49,54,7
+469,Lonni Lorenzo,2002,Gordola,,0,49,55,7
+470,Lonni Gianpietro,1961,Gordola,,0,49,57,1
+471,Battigalli Vincenzo,1966,I-Basiglio (MI),JAB,0,49,58,4
+472,Padalino Giovanni,1985,I-Pratola Serra (AV),,0,49,59,2
+473,Battaglia Alessandro,1988,Pregassona,Pöyry Svizzera SA,0,50,1,8
+474,Scolari Dante,1966,Gordola,IMPLENIA SVIZZERA SA,0,50,2,0
+475,Tamagni Andrea,1980,Porza,,0,50,2,2
+476,Ossola Marco,1983,I-Rodero (CO),A.S. Sporterapia,0,50,4,4
+477,Battaglia Alessandro,1974,Pregassona,Isosil SA,0,50,5,1
+477,Maggi Stefano,1965,Tesserete,,0,50,5,1
+479,Mazzeo Giovanni,1968,Lugano,,0,50,7,1
+480,Odukale Daniel,1976,GB-London,,0,50,7,6
+481,Taddei Leone,1979,Lugano,CNH Industrial,0,50,8,3
+482,Vai Roberto,1972,Contone,,0,50,8,9
+483,Langenberg Robert,1984,Genève,,0,50,9,1
+484,Correa Rodrigo,1973,Giubiasco,Pöyry Svizzera SA,0,50,9,5
+485,Curti Giuseppe,1961,Banco,AMAG,0,50,9,7
+486,De Biase Maurizio,1970,I-Rodero (CO),A.S. Sporterapia,0,50,9,8
+487,Sala Matteo,1981,Magliaso,IMPLENIA SVIZZERA SA,0,50,10,4
+488,Piazzalunga Rico,1959,Bioggio,,0,50,11,1
+489,Romerio Filippo,1964,Prosito,SFG Osogna-Lodrino,0,50,12,3
+490,Bengasini Luca,1980,I-Limido Comasco (CO),,0,50,12,4
+490,Bertovani Roberto,1966,I-Rodero (CO),A.S. Sporterapia,0,50,12,4
+490,Londino Carmine,1989,I-Brusimpiano (VA),,0,50,12,4
+493,Cuche Oliviero,1961,Montagnola,,0,50,13,0
+494,Jehle Serge,1968,Medeglia,Splash e Spa Tamaro,0,50,14,1
+495,Mitti Marco,1966,I-Como (CO),Gruppo Podistico Oratorio San,0,50,14,4
+496,Candrian Christian,1971,Porza,Donazione Organi,0,50,15,2
+497,Carlomagno Francesco,1990,I-Torino (TO),,0,50,15,8
+498,Branda Mirko,1969,Tremona,I Fossili della montagna,0,50,16,9
+499,Rolando Andrea,1973,Lugano,Nyali Swiss,0,50,18,0
+500,Polito Michel,1986,Pregassona,,0,50,18,5
+501,Franco Antonio,1976,Cadro,TEAM RETE UNO,0,50,19,5
+502,Faraon Gabriele,1974,Muzzano,,0,50,21,3
+503,Vinci Mauro,1984,I-Porlezza (CO),TEAM GABBANI,0,50,22,1
+504,Piva Marco,1967,I-Cugliate Fabiasco (VA),,0,50,22,4
+505,Copt Yari,1979,Lugano,Old Captain Co.,0,50,24,6
+506,Iannotta Davide,1985,Magliaso,ZURIGO ASSICURAZIONI,0,50,26,3
+507,Crowder Matthew,1981,USA-Catonsville,,0,50,26,5
+508,Ferrario Daniele,1966,Davesco-Soragno,ZURIGO ASSICURAZIONI,0,50,26,7
+509,Ballabio Christian,1968,Lugano,Gruppo Fidinam,0,50,27,9
+510,Costantini Riccardo,1984,Rovio,no meat athlete,0,50,29,2
+511,Sagunto Francesco,1960,St. Moritz,My Life,0,50,30,5
+512,Meroni Marco,1965,I-Inverigo (CO),Clinica Ars Medica,0,50,31,7
+513,Borradori Giorgio,1955,Bellinzona,rcb bellinzona,0,50,32,6
+514,Marchesi Damian,1992,Dino,Dino T-Rex Association,0,50,33,2
+515,Vanis Ondrej,1980,Pregassona,Tempo vola,0,50,34,9
+516,Ferrara Massimiliano,1970,Lugano,team villa castagnola,0,50,37,1
+517,Draghi Valerio,1964,I-Binasco (MI),OLYMPIA TROVO,0,50,38,5
+518,Chiaravalloti Roberto,1974,Chiasso,,0,50,38,6
+519,Born Pierpaolo,1958,Bellinzona,Migros Ticino,0,50,41,5
+520,Reisinger Jochen,1968,Viganello,Associazió,0,50,41,9
+521,Paolucci Marco,1962,Zug,,0,50,42,2
+522,Corradin Massimo,1977,I-Limido Comasco (CO),ECSA Runners,0,50,42,4
+523,Reuteler Thomas,1967,Urtenen-Schönbühl,,0,50,45,3
+524,Ponti Daniele,1976,Canobbio,,0,50,46,8
+525,Grotto Luca,1970,Giubiasco,stonesport,0,50,48,1
+526,Pighi Ferdinando,1967,Gordevio,,0,50,48,9
+527,Calzolari Alex,1967,I-Cugliate Fabiasco (VA),FINRIPPORT SA,0,50,49,6
+528,Borradori Marco,1959,Lugano,,0,50,52,0
+529,Pedrolini Carlo,1969,Aldesago,Nessuno,0,50,53,3
+530,Travaglini Matteo,1984,Brè sopra Lugano,Croce Verde Lugano,0,50,54,5
+531,Birrer Daniel,1990,Emmenbrücke,,0,50,54,9
+532,Mornaghini Flavio,1980,Breganzona,Tritim Stkz,0,50,57,0
+533,Righettoni Michele,1975,Monte Carasso,,0,51,1,2
+534,Antorini Simone,1995,Lugano,,0,51,1,3
+535,Magri Virgilio,1959,I-Malnate (VA),Clinica Ars Medica,0,51,2,1
+536,Bianchi Nicola,1968,I-Como (CO),azzura garbagnate,0,51,3,3
+536,Raso Francesco,1980,I-Marchirolo (VA),Edmondo Franchini SA,0,51,3,3
+538,Sirchia Fabio,1983,Manno,ARDCL-Ass. Ric. Dip. Comune di,0,51,6,4
+539,Toscanelli Paolo,1983,Pregassona,Splash e Spa Tamaro,0,51,7,3
+540,Pesciallo Flavio,1969,Lugano,,0,51,7,5
+541,Manduzio Mario,1972,I-Daverio (VA),,0,51,9,3
+542,Tobler Eric,1982,Locarno,,0,51,11,4
+543,Ballanti Dario,1966,Locarno,,0,51,11,7
+544,Blini Roberto,1973,Lugano,,0,51,13,0
+545,Sampietro Guido,1973,Melano,Club Natalina,0,51,13,2
+546,Imperadore Marco,1964,Pregassona,DECS Dipartimento dell'educazi,0,51,15,4
+547,Bondietti Roberto,1959,Breganzona,Associazione ALL4ALL,0,51,19,3
+548,Giudici Giovanni,1986,Viganello,,0,51,19,4
+549,Ancelsti Massimiliano,1974,I-Ternate (VA),Whirlpool,0,51,20,3
+550,Clerici Davide,1981,Lugano,,0,51,22,9
+551,Filippone Carlo,1986,Pregassona,EY,0,51,23,0
+552,Abraham Luum,1999,Bellinzona,Associazione ALL4ALL,0,51,23,2
+553,Bottinelli Luca,1974,Vezia,UBS TEAM,0,51,23,5
+554,Malfanti Mike,1970,Sonvico,Aptar Mezzovico SA,0,51,24,0
+555,Manfrina Davide,1981,Minusio,,0,51,24,8
+556,Angeretti Daniele,1970,Genestrerio,TEAM GABBANI,0,51,26,0
+557,Citterio Gabriele,1981,I-Cernobbio (CO),Erisel,0,51,31,1
+558,Bettini Albedo,1984,Morcote,ISAAC,0,51,33,6
+558,Madera Raniero,1967,Losone,TEAM RETE UNO,0,51,33,6
+560,Furrer Beat,1964,Stansstad,,0,51,34,0
+561,Marina Andrea,1971,Gentilino,IMPLENIA SVIZZERA SA,0,51,34,4
+562,Rutner Valentino,1980,Pregassona,ZURIGO ASSICURAZIONI,0,51,35,7
+563,Menatti Giuliano,1969,I-Cedrasco (SO),Club Natalina,0,51,36,0
+564,Casari Marco,1960,Ponte Tresa,AIL Team,0,51,36,2
+565,Porsch Max,1990,St. Gallen,,0,51,36,7
+566,Bernasconi Fabio,1963,I-Montano Lucino (CO),TEAM GABBANI,0,51,36,8
+567,Prati Paolo,1973,Sementina,,0,51,36,9
+568,Ragno Emanuele,1971,I-Cantello (VA),Runcard,0,51,39,1
+569,Maino Paolo,1968,Sorengo,IMPLENIA SVIZZERA SA,0,51,39,2
+570,Scalia Salvatore,1986,Breganzona,Croce Verde Lugano,0,51,39,6
+571,Ingold Roger,1969,Rüttenen,,0,51,40,1
+572,De Ruvo Gian Luca,1967,I-Torino (TO),,0,51,40,3
+573,Costantin Samuele,1982,I-Varese (VA),,0,51,44,7
+574,Pedrotti Luca,1965,Sorengo,UBS TEAM,0,51,45,3
+575,Meier Gian,1961,Ponte Capriasca,SAM Massagno,0,51,45,8
+576,Landoni Damiano,1989,Cassina d'Agno,Avaloq,0,51,46,8
+577,Marzari Damiano,1984,Paradiso,IMPLENIA SVIZZERA SA,0,51,50,6
+578,Amendola Antonio,1984,Morbio Inferiore,,0,51,51,2
+579,Donno Gabriele,1977,Agno,BSI SA,0,51,52,6
+580,Bertinotti Fabrizio,1973,I-Verbania (VB),IMPLENIA SVIZZERA SA,0,51,53,3
+581,Maiolo Marco,1974,I-Olgiate Comasco (CO),A.S. Sporterapia,0,51,53,8
+582,Teruzzi Jacopo,1989,I-Sirtori (LC),Rete Tre,0,51,58,9
+583,Fonti Danilo,1955,Lugano,Città di Lugano,0,51,59,0
+584,Crivelli Massimo,1968,Mendrisio,,0,51,59,1
+585,Rossi Carlo,1974,Zürich,Sunrise Communications AG,0,51,59,9
+586,Bossi Cesare Giovanni,1968,I-Bodio Lomnago (VA),,0,52,0,0
+587,Gadda Giuseppe,1960,I-Fagnano Olona (VA),ATLETICA PRESEZZO,0,52,0,2
+588,Puricelli Daniele,1976,I-Porto Ceresio (VA),runcard,0,52,1,9
+589,Pistola Gianluca,1966,I-Ancona (AN),,0,52,3,5
+590,Corti Vittorino,1963,Canobbio,freetime club,0,52,4,0
+591,Chidean Dragos,1969,Leuggern,,0,52,4,4
+592,Braido Stefano,1963,Torricella,ETAVIS,0,52,5,5
+592,Pezzoli Francesco,1970,Villa Luganese,ISC Team,0,52,5,5
+594,Moscato Domenico,1964,I-Drezzo (CO),,0,52,6,8
+595,Umitvar Emre,1981,Lugano,,0,52,9,6
+596,Elabbar Anis,1986,Roveredo TI,,0,52,11,1
+597,Neto Oscar,1977,Genève,,0,52,11,8
+598,Fabbri Oliver,1976,Comano,,0,52,12,1
+599,Buser Alan,1986,Gentilino,,0,52,12,8
+600,Isenburg Philipp,1967,Cadempino,Gianni Godi SA,0,52,13,1
+601,Vecchi Sergio,1960,Cadempino,Edmondo Franchini SA,0,52,13,7
+602,Riva Cristian,1982,I-Olgiate Comasco (CO),IBSA,0,52,14,1
+603,Gerber Oliver,1977,Trubschachen,SC Escholzmatt,0,52,16,1
+604,Osso Marco Dall,1990,Basel,,0,52,16,4
+605,Lavorato Gianni,1980,I-Cadegliano (VA),ISOSIL SA,0,52,16,6
+606,Liberatore Pierfrancesco,1958,I-Vicenza (VI),VICENZA MARATHON,0,52,17,5
+607,Genzoli Nicola,2001,Comano,,0,52,17,8
+608,Radice Roberto,1987,Pregassona,Free time,0,52,18,8
+609,West Mark,1965,Pregassona,JAB,0,52,19,0
+610,De Lorenzi Matteo,1996,Campione d'Italia,TEAM GABBANI,0,52,21,9
+611,Paganini Igor,1972,Bever,IMPLENIA SVIZZERA SA,0,52,22,6
+612,Maccanelli Mauizio,1987,Sigirino,ARDCL-Ass. Ric. Dip. Comune di,0,52,22,9
+613,Urso Francesco,1986,I-Marchirolo (VA),ISOSIL SA,0,52,25,5
+614,Orsino Salvatore,1984,I-Marchirolo (VA),ISOSIL SA,0,52,26,2
+615,Marandola Daniele,1967,Locarno,SPL Locarnese,0,52,26,3
+616,Marzi Andy,1985,Arbedo,,0,52,26,6
+617,Zanetti Nicola,1978,Medeglia,,0,52,26,7
+618,Bianchi Christian,1984,Cadro,,0,52,27,0
+619,Bruno Rocco,1971,Caslano,ISOSIL SA,0,52,28,2
+620,Casini Massimiliano,1972,Lugano,,0,52,29,8
+621,Wilson Tom,1979,Brissago,,0,52,30,3
+622,Lorenzetti Stefano,1969,Lugano,swissrunning,0,52,31,3
+623,Biserni Christian,1974,I-Ravenna (RA),,0,52,31,8
+623,Santarelli Alessio,1980,L-Luxembourg,PER I TRIDENTINI NON ESISTE L',0,52,31,8
+625,Cazzol Anselmo,1968,Breganzona,,0,52,32,6
+625,Galli Alessandro,1984,Lugano,,0,52,32,6
+627,Locke Peter,1985,Montagnola,,0,52,32,8
+628,Ricchiuti Mario,1977,Mendrisio,,0,52,34,8
+629,Egloff Egon,1942,Remetschwil,,0,52,37,4
+630,Monga Tomas,1998,Torricella,,0,52,38,5
+631,Veiga Simao Jose,1986,Lugano,,0,52,39,2
+632,Nardello Fiorenzo,1961,I-Induno Olona (VA),IMPLENIA SVIZZERA SA,0,52,39,4
+633,Colombo Fabiano,1994,Agra,City Running Team,0,52,39,5
+634,Frosio Massimo,1996,Iragna,,0,52,40,9
+635,Bertoglio Jean Andre,1984,Paradiso,Croce Verde Lugano,0,52,41,5
+636,Lamburghini Andrea,1983,Muzzano,ZURIGO ASSICURAZIONI,0,52,41,6
+637,Realini Mauro,1966,Pregassona,,0,52,41,7
+638,Buso Patrizio,1965,Lugano,GYMTONIC,0,52,42,9
+639,Vanoni Daniele,1980,Manno,mygrannyrunsfaster,0,52,44,7
+640,Eggler David,1984,Stein AG,Team Permcos,0,52,44,9
+641,Bastian Alain,1996,Zürich,,0,52,45,0
+642,Cantamessi Tom,1969,Cadempino,Edmondo Franchini SA,0,52,45,5
+642,Cattaneo Paolo,1967,Castel San Pietro,,0,52,45,5
+642,Masullo Alfonso,1962,I-Montano Lucino (CO),TEAM GABBANI,0,52,45,5
+645,Maffioli Davide,1982,I-Varano Borghi (VA),,0,52,46,1
+646,Porchera Roberto,1975,Coldrerio,Life Club Running team,0,52,46,3
+647,Lehmkuhl Marco,1975,Bedano,,0,52,46,6
+648,Borzone Roberto,1966,I-Sesto San Giovanni (MI),Atletica Lib.,0,52,48,6
+649,Libanore Simone,1992,Chiasso,,0,52,49,1
+650,Ceppi Maurizio,1967,I-Lentate sul Seveso (MB),,0,52,49,5
+651,Czarnetzki Laurent,1996,Lugano,Amiconi Consulting SA,0,52,50,1
+652,Zanella Fabio,1968,Novaggio,Team 2 curve,0,52,50,8
+653,Guilizzoni Livio,1970,Pregassona,,0,52,52,1
+654,Bizzozero Alessandro,2001,Feldmeilen,,0,52,52,7
+655,Gianinazzi Stefano,1975,Comano,AMAG,0,52,53,4
+656,Musto Anthony,1990,Lugaggia,,0,52,54,0
+657,Dodero Edoardo,1980,Lugano,GYMTONIC,0,52,56,7
+658,Manzan Andrea,1992,Lugano,TELF AG,0,52,56,8
+659,Piani Riccardo,1956,Caslano,SAM Massagno,0,52,58,9
+660,Filippini Giacomo,2001,Vaglio,,0,53,2,3
+661,Degiorgi Silvano,1968,Balerna,CorSam,0,53,5,5
+662,Ramseier Marc,1977,Biel/Bienne,Team Saraal,0,53,6,2
+663,Gatsis Alexandros,1981,Zürich,,0,53,8,6
+664,Perseghini Ivo,1982,Vezia,UT4run,0,53,12,3
+665,Pesciallo Vanni,1988,Meride,,0,53,13,5
+666,Beltraminelli Paolo,1961,Pregassona,Swisstransplant,0,53,13,6
+667,Auguadri Luca,1975,Besazio,,0,53,15,2
+668,Stoppa Francesco,1991,Novazzano,Comal.ch,0,53,17,3
+669,Rusca Cornelio,1956,Comano,USC Capriaschese,0,53,17,8
+670,Brumana Roberto,1955,I-Como (CO),,0,53,18,3
+671,Mosconi Mirko,1991,Bellinzona,Pöyry Svizzera SA,0,53,18,5
+672,Luksch Michael,1985,Rheinfelden,,0,53,18,8
+673,Carpani Enrico,1958,Lugano,,0,53,19,9
+674,Huwiler Daniel,1989,Adliswil,,0,53,25,9
+675,Dal Pozzo Marco,1951,Viganello,AS Monteceneri,0,53,26,0
+675,Morciano Ippazio,1971,I-Trovo (PV),OLYMPIA TROVO,0,53,26,0
+677,Fontana Luca,1988,Lugano,IBSA,0,53,26,3
+678,Morelli Fabrizio,1967,Lugano,UBS TEAM,0,53,27,6
+678,Negrelli Gianni,1984,I-Daverio (VA),Linnea Running Team,0,53,27,6
+680,Venneri Angelo,1978,I-Galliate Lombardo (VA),,0,53,27,8
+681,Colombetti Marco,1967,Lugano,,0,53,29,5
+682,Erba Andrea,1980,Lugano,Running Consulting,0,53,32,6
+683,Ciriello Mattia,1998,Lamone,,0,53,33,1
+684,Pagliarulo Mario,1983,Biasca,IMPLENIA SVIZZERA SA,0,53,33,3
+685,Ramundo Gianni,1972,I-Vedano Olona (VA),IMPLENIA SVIZZERA SA,0,53,33,9
+686,Karoubi Ilan,1982,Lugano,OCR Ticino,0,53,34,3
+687,Zerboni Christian,1983,Agno,,0,53,34,5
+688,Avitabile Luca,1965,Savosa,,0,53,35,3
+689,Vabanesi Michel,1979,Dino,AIL Team,0,53,35,5
+690,Pellaton Damien,1982,Cornaux NE,,0,53,36,5
+691,Buttera Matteo,1983,I-Dongo (CO),run&fun,0,53,38,5
+692,Rauseo Danny,1972,Breganzona,TEAM RETE UNO,0,53,39,5
+693,Zanon Alessandro,1993,Lugano,TEAM RETE UNO,0,53,41,0
+694,Della Casa Luca,1971,Ligornetto,,0,53,41,6
+695,Clénin Dionys,1974,Port,,0,53,44,2
+695,Lungo Domenico,1964,Massagno,ETAVIS,0,53,44,2
+697,Pfenniger Peter,1956,Henggart,energym-city-Team,0,53,46,3
+698,Müller Konstantin,1983,St. Gallen,,0,53,47,7
+699,Calloni Alberto,1986,Lugano,Avaloq,0,53,49,1
+700,Baylaender Geoffroy,1987,Cadempino,FrontEnders Ticino,0,53,50,8
+701,Crivelli Dario,1985,Coldrerio,,0,53,52,5
+701,Renzi Daniel,1996,Renens VD,UBS TEAM,0,53,52,5
+703,Delorenzi Alessandro,1979,Lugano,,0,53,52,8
+704,Bottini Simone,1968,Davesco-Soragno,Indipendente,0,53,53,4
+705,Protic Dalibor,1992,Pregassona,Clinica Ars Medica,0,53,55,4
+706,Guida Paolo,1975,I-Robbiate (LC),,0,53,55,6
+707,Gottardi Alessandro,1984,Chiasso,LARIS FIDUCIARIA,0,53,55,8
+708,Sculati Diego,1977,I-Sesto Calende (VA),,0,53,56,2
+709,Signer Salvo,1967,Lugano,,0,53,56,8
+710,Vicenzi Rocco,1994,Mezzovico,,0,53,59,0
+711,Guandalini Stefano,1971,Lugano,IMPLENIA SVIZZERA SA,0,53,59,3
+712,Nesa Mauro,1958,Sala Capriasca,FINRIPPORT SA,0,53,59,4
+713,De Lorenzi Mauro,1967,Gnosca,IBSA,0,54,1,2
+714,Solari Fabiano,1972,Montagnola,MADAGAMB,0,54,3,4
+715,Martini Fabiano,1981,Bellinzona,Migros,0,54,3,9
+716,Rumi Mattia,1985,I-San Siro (CO),,0,54,4,0
+717,Falchetto Marco,1985,I-Cernobbio (CO),IBSA,0,54,4,2
+718,Rochat Tommaso,1987,Massagno,Swisstransplant,0,54,5,0
+719,Richina Nicola,1974,Cadenazzo,Team Piz Buin Cadenazzo,0,54,5,7
+720,Pedrazzini Simone,1989,Comano,,0,54,5,8
+721,Born Vincenzo,1966,Bellinzona,,0,54,8,3
+722,Greco Daniele,1972,Gordola,Attivi,0,54,9,0
+723,Haag Sandro,1975,Cademario,IMPLENIA SVIZZERA SA,0,54,10,9
+724,Rezzonico Alain,1983,Breganzona,,0,54,11,3
+725,Lombardo Pietro,1971,Bellinzona,Top-One,0,54,11,8
+726,Duranti Roberto,1973,Muzzano,TEAM RETE UNO,0,54,17,1
+727,Broggini Gabriele,1965,Porza,Besfid SA,0,54,17,3
+727,Capocasale Patrick,1976,Cadenazzo,Linnea Running Team,0,54,17,3
+729,Casati Célien,1986,Cressier NE,Full Metal Raclette,0,54,18,6
+730,Bernasconi Maurizio,1961,Novazzano,PRECICAST RUNNING TEAM,0,54,18,9
+731,Piemontesi Massimo,1986,Breganzona,TEAM GABBANI,0,54,19,2
+732,Gul Saim,1967,Campione d'Italia,Casino di Campione d'Italia,0,54,19,9
+733,Rizzi Fabrizio,1960,I-Rodero (CO),A.S. Sporterapia,0,54,20,0
+734,Mentasti Luca,1985,I-Sumirago (VA),Comal.ch,0,54,21,5
+735,Pasca Valerio,1977,I-Fino Mornasco (CO),IBSA,0,54,23,0
+736,Krzelj Sacha,1982,Sementina,,0,54,23,9
+737,Hofmann Mattia,2008,Breganzona,,0,54,24,8
+738,Gonzalez Maximilian,1953,Giubiasco,IMPLENIA SVIZZERA SA,0,54,27,8
+739,Carreri Massimiliano,1972,Minusio,Linnea Running Team,0,54,30,6
+740,Casale Michele,2006,Lugano,,0,54,31,9
+741,Francica Davide,1985,Sorengo,UBS TEAM,0,54,32,2
+742,Martini Marco,1983,Pregassona,,0,54,33,9
+743,Lino Fiore,1976,Rancate,,0,54,34,9
+744,Bugin Flavio,1977,I-Colverde,,0,54,35,3
+745,Pelagagge Fabrizio,1990,Viganello,,0,54,36,0
+746,Bartolotti Michael,1975,Arbedo,RB Training,0,54,37,0
+747,Macdonald Ian,1973,Manno,runner dogs,0,54,38,0
+748,Sanvido Paolo,1966,Lugano,EOC Ente Ospedaliero Cantonale,0,54,38,5
+749,Gaida Christian,1966,D-Muggensturm,Muggenstürmer,0,54,38,8
+750,Fendoni Cristian,1988,Agarone,Ganass,0,54,40,8
+751,De Lusi Alessandro,1968,Locarno,,0,54,41,0
+752,Gaida Steffen,2002,D-Muggensturm,Muggenstürmer,0,54,41,2
+753,Viganò Gianluca,1985,Agno,Avaloq,0,54,43,2
+754,Djordjevic Aleksandar,2001,Lugano,ETAVIS,0,54,45,7
+755,Mascetti Renzo,1950,Sonvico,,0,54,46,0
+756,Furiani Andrea,1973,I-Cantello (VA),,0,54,46,9
+757,Chiesa Fabio,1977,Pregassona,,0,54,50,6
+758,Rezzonico Bruno,1965,Lugano,PRO SENECTUTE TICINO E MOESANO,0,54,51,4
+759,Bodenmann Daniel,1966,Gossau SG,IMPLENIA SVIZZERA SA,0,54,51,6
+759,Marcon Pierluigi,1963,I-Campione d'Italia (CO),,0,54,51,6
+761,Algisi Patrick,1987,Lugano,,0,54,52,1
+762,Marinoni Stefano,1982,I-Ponte Tresa (VA),Nessuno,0,54,53,8
+763,Grob Ernesto,1951,Locarno,,0,54,54,4
+764,Beretta Roberto,1958,Comano,,0,54,54,6
+764,Vidal Marc,1978,Altdorf UR,,0,54,54,6
+766,Mongodi Marco,1985,Lugano,,0,54,55,1
+766,Stricker Hansjürg,1961,Pontresina,,0,54,55,1
+768,Milioti Emilio,1980,I-Milano (MI),,0,54,55,6
+769,Mazza Stefano,1985,Lugano,La valle corse,0,54,56,2
+770,Mistler Pascal,1966,F-St Maur des Fosses,,0,54,57,3
+771,Biggio Leonardo,1984,Paradiso,,0,54,58,9
+772,De Toffol Emanuele,1975,Pazzallo,???,0,54,59,4
+773,Bischof Luca,1981,Nänikon,BischofRun,0,54,59,9
+774,Sulzer Guido,1954,Meilen,LC Meilen,0,55,2,3
+775,Pascuzzi Federico,1974,I-Marchirolo (VA),ISOSIL SA,0,55,3,0
+776,Mascarello Antonello,1987,Wetzikon ZH,Podistica Solidarietà,0,55,4,7
+777,Caprani Simone,1994,Airolo,,0,55,5,6
+778,Rovelli Lucio Valentino,1986,Lugaggia,,0,55,8,6
+779,Rossi Ivan,1957,Pregassona,Team Rete Uno,0,55,8,7
+780,Zambetti Giuseppe,1961,Villa Luganese,ASRC Corner Banca SA,0,55,8,8
+781,Kürsteiner Pascal,1984,Gordola,AD runners,0,55,10,2
+782,Gabbani Domenico,1984,Muzzano,TEAM GABBANI,0,55,13,0
+783,Tomamichel Stefano,1991,Locarno,RaceTeamKMTZ,0,55,14,3
+783,Venturi Simone,1983,Coldrerio,,0,55,14,3
+785,Bosshard Vinicio,1966,Mezzovico,PRO SENECTUTE TICINO E MOESANO,0,55,14,9
+786,Zinetti Valentino,1981,Paradiso,BSI SA,0,55,15,4
+787,Heine James,1969,Chambésy,,0,55,15,7
+788,Del Percio Vittorio,1977,Maroggia,,0,55,15,9
+789,Cattaneo Luca,1984,Carona,IMPLENIA SVIZZERA SA,0,55,19,3
+790,Rombola Franco,1975,Chiasso,UBS TEAM,0,55,20,0
+791,Baronchelli Davide,1973,Chiasso,UBS TEAM,0,55,20,1
+792,Seno Silvio,1957,Paradiso,,0,55,24,3
+793,Mejzinolli Hasan,1985,St. Gallen,IMPLENIA SVIZZERA SA,0,55,24,5
+794,Marzullo Davide,1986,Lugano,freetime club,0,55,25,5
+795,Todeschini Simone,1983,Lugano,Team Bolton Swiss,0,55,26,2
+796,Furiani Luca,1972,I-Arcisate (VA),,0,55,27,5
+797,Scarfone Claudio,1968,Morbio Inferiore,UBS TEAM,0,55,28,6
+797,Vallarino Renato,1953,I-Magenta (MI),,0,55,28,6
+799,Mazza Roberto,1970,Lugano,,0,55,30,5
+800,Almeida Gonçalo,1992,Hochdorf,,0,55,30,9
+801,Falanga Vincenzo,1983,I-Como (CO),,0,55,31,0
+802,Ceraudo Mattia,1990,Breganzona,Swisstransplant,0,55,33,9
+803,Veillard Marc-André,1980,Martigny,,0,55,34,6
+804,Bizzozero Marco,1969,Feldmeilen,,0,55,36,8
+805,Sotgia Marco,1977,I-Veniano (CO),,0,55,37,0
+806,Pizzo Antony,1995,Camignolo,,0,55,37,9
+807,Albisetti Oliviero,1959,Morbio Inferiore,Ferrovieri sportivi,0,55,38,3
+808,Vanoli Diego,1963,I-Induno Olona (VA),Barcollo ma non mollo,0,55,39,4
+809,Frati Stefano,1968,Ponte Capriasca,Avaloq,0,55,39,6
+810,Savian Luca,1979,I-Meda (MB),Comal.ch,0,55,41,1
+811,Longhini Pietro,1970,I-Varese (VA),,0,55,42,2
+812,Gaggioni Emanuele,1992,Iragna,,0,55,47,2
+813,Galli Mauro,1963,Rivera,AS Monteceneri,0,55,47,4
+814,Catani Afrim,1978,Mendrisio,Associazione Malattie Genetich,0,55,47,6
+815,Cassinari Claudio,1970,I-Montano Lucino (CO),TEAM GABBANI,0,55,48,5
+816,Lunati Diego,1973,Arbedo,,0,55,52,2
+817,Ingardia Antonio,1967,Gordola,,0,55,53,0
+818,Delfante Alexis,1985,I-Cavargna (CO),FreeTime club,0,55,53,6
+819,Schirò Luigi,1975,Cadenazzo,Unione Farmaceutica Distribuzi,0,55,55,7
+820,Rossi Luca,1977,Viganello,,0,55,56,8
+821,Gervasoni Andrea,1965,A-Rivera,Swiss Safety Center,0,55,56,9
+821,Mesquita Mario,1987,Taverne,,0,55,56,9
+823,Pescarollo Roberto,1965,I-Basiglio (MI),Road Runners Club Milano,0,55,57,1
+824,D'Ercole Alessandro,1979,I-Milano (MI),,0,55,57,4
+825,Annoni Riccardo,1978,I-Cassina Rizzardi (CO),,0,55,57,6
+826,Bibba Sacha,1993,Novazzano,,0,55,58,7
+827,Masullo Fabio,1975,Curio,,0,55,58,9
+828,Testa Ivan,1978,Caslano,IMPLENIA SVIZZERA SA,0,55,59,8
+829,Mitrovic Boris,1997,Breganzona,A-Club Savosa,0,56,3,3
+830,Aeschlimann Christoph,1977,Augst BL,,0,56,5,2
+831,Carta Daniele,1992,Lugano,,0,56,7,7
+832,Proserpio Marco,1981,I-Milano (MI),,0,56,8,8
+833,Mazzei Giovanni,1963,Giubiasco,,0,56,9,2
+834,D'Orlando Daniel,1992,A-Wien,,0,56,10,7
+835,Grasso Fabio,1979,I-Misterbianco (CT),,0,56,11,4
+836,Moretti Daniele,1987,Giubiasco,SUPSI-DEASS,0,56,11,7
+837,Gabbani Francesco,1986,Lugano,TEAM GABBANI,0,56,12,0
+838,Palmeri Patrizio,1984,I-Arcisate (VA),6 Sport ASD,0,56,13,2
+839,Gioia Marco,1982,I-Porlezza (CO),IBSA,0,56,13,6
+840,Lupo Enrico,1975,Lugano,,0,56,15,0
+841,Solfrini Massimo,1962,Chiasso,UB TEAM,0,56,16,2
+842,Brunetti Alessandro,1984,I-Como (CO),Octoplus Group,0,56,17,1
+843,Niesi Carmelo,1982,I-Favara (AG),,0,56,17,2
+844,Damegger Udo,1970,Zürich,,0,56,18,5
+845,Lotti Daniele,1957,Bellinzona,Runners club Bellinzona,0,56,20,0
+846,Campana Marco,1970,Dino,,0,56,22,4
+847,Maentler Michael,1978,Holderbank AG,IMPLENIA SVIZZERA SA,0,56,22,9
+848,Mambretti Giovanni,1967,Erba (CO),Clinica Ars Medica,0,56,23,3
+849,Suergiu Emilio,1965,Manno,Chen Taijiquan Lugano,0,56,26,9
+850,Cereghetti Rudy,1971,Chiasso,IMPLENIA SVIZZERA SA,0,56,27,0
+851,Hirschi Heinz,1956,Hettlingen,,0,56,27,8
+852,Campana Dario,1989,Lugano,,0,56,33,4
+853,Colecchia Francesco,1993,I-Vertemate con Minoprio,,0,56,34,0
+854,Ferrario Marco,1987,I-Grantola (VA),,0,56,35,8
+855,Poretti Mauro,1969,Sessa,,0,56,36,8
+856,Capalbo Pietro,1979,I-Casciago (VA),RB Trawing,0,56,36,9
+857,Bertola Bruno,1989,Breganzona,,0,56,39,4
+858,Piganzoli Massimo,1975,I-Chiavenna (SO),,0,56,40,2
+859,Jelmoni Luca,1967,Pura,Swisstransplant,0,56,43,8
+860,Lurati Paolo,1965,Canobbio,Lurati's Team,0,56,44,1
+861,Borelli Leo,1980,Gandria,UBS TEAM,0,56,46,1
+862,Dadò Christian,1974,Tenero,Indians,0,56,47,7
+863,Sana Giovanni,1967,I-Binago (CO),,0,56,51,0
+864,Ferraro Biagio,1984,Giubiasco,,0,56,53,2
+865,Page Jean-Claude,1948,Lugano,Club CT,0,56,53,5
+866,Schnee Tomas,1966,Wilen b. Wil,,0,56,53,7
+867,Torri Davide,1986,I-Lenno (CO),team villa castagnola,0,56,55,1
+868,Morandi Raimondo,1969,Carabbia,,0,56,56,4
+869,Cafaro Silvio,1982,I-Como (CO),,0,56,59,1
+870,Chiarello Alessandro,1976,Balerna,Croce Verde Lugano,0,57,1,3
+871,Mencarelli Sergio,1963,Montagnola,AIL Team,0,57,1,8
+872,Torreno Antonio,1982,I-Cernobbio (CO),AVALOQ,0,57,2,0
+873,Rossi Ivano,1956,Pregassona,,0,57,2,9
+874,Coia Andrea,1993,I-Viterbo (VT),,0,57,3,0
+875,Domon Claude,1955,Massagno,MASSAGNO,0,57,3,9
+876,Diana Carlo,1970,I-Luino (VA),,0,57,4,0
+877,Kaehr Leandro,1979,Cugnasco,RaceTeamKMTZ,0,57,4,3
+878,Delmenico Marco,1967,Banco,,0,57,5,2
+879,Zanichelli Luigi,1951,I-Parma (PR),,0,57,6,7
+880,Cusano Saverio,1970,Caslano,,0,57,7,1
+880,Fortunato Christian,1970,Viganello,,0,57,7,1
+882,Muggli Federico,1995,Morbio Inferiore,LARIS FIDUCIARIA,0,57,7,6
+883,Capozza Massimo,1987,Bellinzona,UBS TEAM,0,57,7,7
+884,Pannarelli Michele,1973,Bedano,ZURIGO ASSICURAZIONI,0,57,7,8
+885,Andreoli John,1990,Massagno,,0,57,9,0
+886,Carnovale Mario,1971,Ruvigliana,team villa castagnola,0,57,10,5
+887,Caironi Angelo,1966,I-Limido Comasco (CO),Clinica Ars Medica,0,57,11,4
+888,Solari Massimo,1989,Bellinzona,,0,57,12,8
+889,Colucci Antonio,1972,Morbio Inferiore,RB Training,0,57,13,2
+890,Maggio Vincenzo,1973,Gentilino,,0,57,13,7
+891,Gilardoni Giacomo,1987,Lugano,,0,57,14,1
+892,Roth Stefano,1984,Cimo,UBS TEAM,0,57,17,2
+893,Vendramin Luca,1973,Ponte Capriasca,,0,57,18,6
+894,Albani Daniele,1980,Giubiasco,,0,57,20,6
+895,Hofmann Tiziano,1974,Breganzona,Trippa per gatti,0,57,22,5
+896,Gervasoni Luca,1996,Rivera,,0,57,23,1
+897,Spirli Riccardo,1969,Genestrerio,UBS TEAMI,0,57,25,2
+898,Prati Leonardo,2006,Aldesago,,0,57,27,0
+899,Milone Fabio,1975,I-Venegono Inferiore (VA),Swisstransplant,0,57,27,4
+900,Pippo Federico,1987,Lugano,,0,57,28,6
+901,Jermini Michele,1968,Breganzona,,0,57,28,9
+902,Tobler Ken,1978,D-Puchheim,,0,57,29,5
+903,Colecchia Antonio,1959,I-Vertemate con Minoprio,,0,57,29,6
+904,Milanovic Milojko,1975,S. Antonino,ETAVIS,0,57,29,9
+905,Campa Giorgio,1988,Pura,,0,57,33,1
+906,Favilla Claudio,1996,Montagnola,,0,57,33,6
+907,Piattini Paolo,1974,Cagiallo,USC atletica,0,57,36,6
+908,Casaburi Luigi,1977,I-Buccinasco (MI),,0,57,37,0
+909,Casati Paolo,1986,Lugano,,0,57,38,2
+910,Cherkas Mikhail,1973,Lausanne,Ours de Sibérie,0,57,39,5
+910,Macesic Damir,1983,I-Cassina Dè Pecchi (MI),,0,57,39,5
+912,Shey Cyrus,1978,Oberrieden,Fat Boys of Oberrieden,0,57,40,6
+913,Vernaglia Pasquale,1963,I-Sesto San Giovanni (MI),,0,57,41,2
+914,Szramka Oskar,1988,PL-Gdynia,,0,57,42,5
+915,Ostinelli Roberto,1977,Morbio Inferiore,,0,57,42,9
+916,Ilushin Roman,1984,Maroggia,,0,57,48,3
+917,Salvadego Marco,1958,I-Tradate (VA),,0,57,49,8
+918,Villa Stefano,1982,I-Vertemate con Minoprio,,0,57,52,1
+919,Sanvido Andrea,1986,Pregassona,UBS TEAM,0,57,54,6
+920,Gianolini Daniele,1975,Monte Carasso,,0,57,55,2
+921,Domeniconi Claude,1958,Breganzona,Croce Verde Lugano,0,57,56,5
+922,Tagliabue Massimo,1970,Corteglia,IMPLENIA SVIZZERA SA,0,57,58,3
+923,Bobbià Francesco,1968,Stabio,,0,57,58,4
+924,Zarro Claudio,1965,Taverne,UBS TEAM,0,57,59,9
+925,Pezzano Marlon,1992,I-Fino Mornasco (CO),,0,58,0,0
+926,Lorenzetti Luca,1987,Lugano,,0,58,1,4
+927,Antonini Alessio,1965,Cimo,Thömus,0,58,3,1
+928,Giuliani Marco,1977,I-Cermenate (CO),,0,58,3,3
+929,Zatta Remo,1966,Gravesano,,0,58,3,7
+930,De Rosa Carlo,1965,I-Zelo Buon Persico (LO),,0,58,5,1
+931,Simich Giulio,1966,I-Como (CO),gruppo sportivo polizia locale,0,58,11,5
+932,Berti Daniele,1966,Quartino,,0,58,13,8
+933,De Nuccio Giuseppe,1984,Cavergno,,0,58,13,9
+934,Manfré Marco,1980,Anzonico,,0,58,14,3
+935,Crisafulli Antonino,1964,Walenstadt,,0,58,15,6
+936,Bronzini Giacomo,1979,Agra,PER I TRIDENTINI NON ESISTE L',0,58,16,6
+937,Lepori Jannis,1983,Lopagno,,0,58,19,1
+938,Boanno Mario,1970,Arzo,,0,58,20,6
+939,Maurer Michael,1976,Reiden,,0,58,20,7
+940,Frei Stefan,1968,Ebikon,,0,58,21,9
+941,Eichholz Matthias,1975,Oberrieden,Fat Boys of Oberrieden,0,58,25,2
+942,Ferraro Giovanni,1978,Gentilino,FERRARO?S,0,58,26,4
+943,Marchetti Giacomo,1990,Viganello,Club EY,0,58,26,9
+944,Reisenthaler Roman,1971,Erlenbach ZH,IMPLENIA SVIZZERA SA,0,58,27,6
+945,Carobbio Mauro,1970,Coldrerio,Comal.ch,0,58,28,0
+946,Stadelmann Marco,1988,Luzern,,0,58,28,1
+947,Zarba Nicolangelo,1970,Gordevio,AIL Team,0,58,28,8
+948,Danielli Alessandro,1977,I-San Siro (CO),SHOTOKAN KARATE SAN SIRO,0,58,31,4
+949,Cereghetti Massimo,1966,Besazio,FC Mendrisio,0,58,32,7
+950,Rapp Gustavo,1959,Cadempino,FREE TIME CLUB,0,58,38,9
+951,Solèr Fabio,1959,Novazzano,Sarci Sport team,0,58,43,0
+952,Veneroni Jacopo,1983,Lugano,,0,58,43,5
+953,Reynier René,1976,Manno,Stonesport,0,58,46,0
+954,Peri Enrico,1965,I-Milano (MI),,0,58,47,2
+955,Adams Michael,1964,D-Freiburg,SV Dibbelappes,0,58,47,3
+956,Regola Alessandro,1956,I-Milano (MI),,0,58,47,5
+957,Bressan Alessandro,1967,Caslano,ETAVIS,0,58,48,3
+958,Maio Oswald,1972,I-Valganna (VA),FINRIPPORT SA,0,58,50,1
+959,Giovio Andrea,1986,Lugano,Implenia Svizzera SA,0,58,52,5
+960,Gerosa Gianluca,1968,Lugano,,0,59,1,5
+961,Veggian Claudio,1962,I-Porto Ceresio (VA),GFL SA,0,59,4,8
+962,Dell'Oste Giorgio,1956,I-Fiumicino (RM),,0,59,5,3
+963,Cardia Maurizio,1989,Castagnola,,0,59,6,6
+964,Pezzin Paolo,1968,Paradiso,,0,59,7,7
+965,Fenizia Mariano,1978,I-Gropello Cairoli (PV),OLYMPIA TROVO,0,59,12,8
+966,Molteni Alessandro,1977,I-Cantù (CO),Erisel,0,59,13,0
+967,Caccavari Christian,1974,Ligornetto,,0,59,17,7
+968,Munz Sacha,1992,Cham,,0,59,18,8
+969,Bertolini Marco,1980,I-Bergamo (BG),0,0,59,22,2
+970,De Lorenzo Giuseppe,1989,Lugano,,0,59,22,5
+971,Servida Paolo,1958,Pregassona,Swisstransplant,0,59,23,6
+972,Vialetto Vittorio,1980,Mendrisio,,0,59,27,1
+973,Brumana Dario,1963,Vernate,,0,59,29,4
+974,Simonetto Francesco,1958,Massagno,,0,59,37,9
+975,Giuffre Alberto,1982,I-Milano (MI),Runcard,0,59,38,1
+976,Violetti Andrea,1982,Porza,,0,59,38,3
+977,Fichera Massimigliano,1981,Ligornetto,UBS TEAM,0,59,39,0
+978,Muzalyev Oleksiy,1962,Carouge GE,,0,59,43,7
+979,Laurent Jean-Marc,1973,Epalinges,,0,59,44,4
+980,Streit Jürg,1951,Busswil BE,,0,59,46,1
+981,Robbiani Luca,1989,Bellinzona,Bellinzona la Capitale,0,59,46,8
+982,Szarf Eric,1977,Chalais,,0,59,48,6
+983,Fontana Alberto,1954,Tremona,,0,59,50,7
+984,Cafazzo Martin Miguel,1977,I-Zelo Buon Persico (LO),,0,59,51,5
+985,Ceriotti Luca,1986,I-Buscate (MI),Avaloq,0,59,53,8
+986,D'Addio Ivan,1973,Minusio,Erisel,0,59,53,9
+987,Sabbioni Sacha,1984,Comano,UBS TEAM,0,59,55,2
+988,Oschwald Ruedi,1954,Tesserete,DePuy Synthes,1,0,0,6
+989,Giuffrè Alessandro,1978,Lugano,UBS TEAM,1,0,7,0
+990,Malacarne Maurizio,1974,I-Como (CO),Rb training,1,0,8,0
+991,Decarli Valentino,1987,Biasca,,1,0,8,4
+992,von Felten Andrea,1966,Pregassona,,1,0,8,6
+993,Zappa Mauro,1963,Bosco Luganese,,1,0,9,3
+994,Vicenzi Ivan,1962,Mezzovico,,1,0,13,4
+995,Deandrea Christian,1979,I-Balerna,RB TRAINING,1,0,14,6
+996,Grassi Davide,1984,Brusino Arsizio,,1,0,20,6
+997,Rusconi Federico,1991,Lugano,TELF AG,1,0,21,0
+998,Busnelli Giacomo,1997,I-Cantù (CO),,1,0,21,7
+999,D'Orlando Gianfranco,1967,Lugano,,1,0,24,2
+1000,D'Alessandro Emanuele,2006,Lugano,SAL,1,0,24,6
+1001,Lucchini Fulvio,1980,I-Faloppio (CO),,1,0,26,8
+1002,Dosi Alberto,1969,Ruvigliana,BSI SA,1,0,27,8
+1003,Grossi Simone,1976,Monte Carasso,,1,0,28,0
+1004,Gatti Luca,1972,I-Piacenza (PC),,1,0,28,1
+1005,Menaballi Dario,1971,Mendrisio,IMPLENIA SVIZZERA SA,1,0,29,3
+1006,Di Venere Antonio,1988,Gerra (Gambarogno),,1,0,34,1
+1007,Cavalleri Marco,1959,I-Inverigo (CO),Clinica Ars Medica,1,0,34,6
+1008,Mota Glauber,1981,Sorengo,I&G,1,0,35,4
+1009,Di Salvo Enzo,1972,Losone,,1,0,36,3
+1009,Mandras Paolo,1967,I-Porlezza (CO),ISOSIL SA,1,0,36,3
+1011,Sudanti Milko,1970,I-Cugliate Fabiasco (VA),,1,0,37,3
+1012,Geranio Fabrizio,1978,Breganzona,LARIS FIDUCIARIA,1,0,37,5
+1013,Panetta Renato,1954,Lugano,,1,0,38,5
+1014,Longo Stefano,1979,L-Luxembourg,,1,0,39,5
+1015,Isopo Luigi,1973,Rivera,,1,0,43,7
+1016,Kolaj Xhorxhi,1985,I-Bollate (MI),,1,0,45,0
+1017,Cavagnuolo Gianluca,1988,I-Solaro (MI),AMU'S,1,0,45,5
+1017,Gianola Luca,1982,Lugano,ARDCL-Ass. Ric. Dip. Comune di,1,0,45,5
+1019,Derada Maurizii,1974,Cassina d'Agno,,1,0,46,9
+1020,Agatic Ilija,1986,Rivera,,1,0,47,7
+1021,Radaelli Ivan,1967,I-Galliate (NO),ATLETICA TRECATE,1,0,50,5
+1022,Elia Angelo,1957,Agra,,1,0,50,6
+1023,Odoni Elia,1984,I-Marchirolo (VA),,1,0,52,1
+1024,Ciriello Fabio,1968,Lamone,,1,0,52,3
+1025,Bergomi Devis,1990,Rancate,Comal.ch,1,0,52,5
+1026,Pagani Alessandro,1988,I-Appiano Gentile (CO),IBSA,1,0,52,9
+1027,Scibilia Emanuele,1969,Lamone,UBS TEAM,1,0,53,1
+1028,Sciaroni Mario,1965,Brione sopra Minusio,Ganass,1,0,53,6
+1029,Oliva Patrick,1988,Giubiasco,,1,0,56,9
+1030,Calabrese Mario,1960,I-Dumenza (VA),spaghetti gastro group,1,0,57,1
+1031,Aeschbacher Thomas,1976,Buchrain,,1,0,57,8
+1032,Buonomo Roberto,1979,Lugano,PWC LUGANO,1,1,0,4
+1033,Rezzonico Federico,1968,Lugano,LARIS FIDUCIARIA,1,1,3,5
+1034,Solcà Angelo,1978,S. Antonino,,1,1,4,2
+1035,Bestetti Adalberto,1953,I-Guanzte (VA),LIBERO,1,1,4,6
+1036,Hagara Daniel,1964,Pregassona,,1,1,7,3
+1037,Bassani Marco,1976,I-Como (CO),IBSA,1,1,10,1
+1038,Ferrari Luca,1997,Morbio Inferiore,,1,1,10,2
+1039,Fontolan Lorenzo,1974,I-Turate (CO),,1,1,12,0
+1040,Ravera Massimiliano,1975,Arogno,Unione Farmaceutica Distribuzi,1,1,15,3
+1041,Zolla Claudio,1983,Savosa,Besfid SA,1,1,17,0
+1042,Pogliani Aldo,1951,Ligornetto,Compassion,1,1,23,3
+1043,Achini Mattia,1992,I-Porlezza (CO),Splendide Royal,1,1,24,3
+1044,Colombo Luigi,1967,I-Inverigo (CO),Clinica Ars Medica,1,1,25,1
+1045,Pilone Giovanni,1979,Breganzona,ZURIGO ASSICURAZIONI,1,1,25,9
+1046,Ceresoli Piergiorgio,1961,I-Filago (BG),,1,1,27,5
+1047,Martinelli Luca,1993,I-Villa Guardia (CO),Avaloq,1,1,28,3
+1048,Gerosa Paolo,1980,I-Lecco (LC),,1,1,28,4
+1049,Scarso Giampaolo,1968,I-Milano (MI),,1,1,33,4
+1050,Widmer Michel,1966,Comano,FINRIPPORT SA,1,1,36,7
+1051,Zambetti Andres,1991,Villa Luganese,n.a.,1,1,38,3
+1052,Borioli Stefano,1983,Zollikerberg,,1,1,39,6
+1052,Ferrario Lorenzo,1972,I-Dongo (CO),run&fun,1,1,39,6
+1054,Borioli Matteo,1980,I-Milano (MI),,1,1,40,5
+1055,Mallo Juan,1980,Pazzallo,,1,1,53,2
+1056,Vodola Michele,1960,Riva San Vitale,IMPLENIA SVIZZERA SA,1,1,54,0
+1057,Ferretto Mario,1949,I-Saronno (VA),Limes,1,1,59,9
+1058,Giordano Gilberto,1979,I-Como (CO),GFL SA,1,2,3,5
+1059,Zinzi Mauro,1963,S. Antonino,,1,2,8,3
+1060,Ciccarelli Massimo,1973,Brusino Arsizio,,1,2,11,5
+1061,Marcolongo Alberto,1977,Locarno,ZURIGO ASSICURAZIONI,1,2,12,1
+1062,Traclò Antonio Marco,1969,Viganello,,1,2,12,7
+1063,Pompeo Danilo,1952,I-Montorfano (CO),,1,2,18,1
+1064,Pedrazzini Giovanni,1960,Comano,Croce Verde,1,2,18,8
+1065,Santini Sergio,1956,Figino,,1,2,19,3
+1066,Frangi Antonello,1963,Mezzovico,,1,2,21,2
+1067,Diano Claudio,1970,I-Lozza (VA),,1,2,22,1
+1068,Ferretti Davide,1976,Gravesano,Team Diabete Ticino,1,2,22,4
+1069,Belloni Paolo,1967,Villa Luganese,,1,2,25,3
+1070,Fontana Massimo,1965,Genestrerio,LA PRELLA RUNNING TEAM,1,2,27,2
+1071,Lanza Eugenio,1985,Bissone,TEAM GABBANI,1,2,28,1
+1072,Bonazza Matteo,1979,I-Trento,PER I TRIDENTINI NON ESISTE L',1,2,31,2
+1073,Merlani Paolo,1964,Dino,Swisstransplant,1,2,32,9
+1074,Cazzola Vittorio,1971,Morbio Inferiore,Gruppo Le Forchette,1,2,36,9
+1075,Mesiti Giuseppe,1987,Lugano,TELF AG,1,2,37,6
+1076,Pablé Gregory,2002,Zug,,1,2,39,5
+1077,Coppola Antonio,1972,I-Colverde,ETAVIS,1,2,39,7
+1078,Bosia Emilio,1963,Comano,,1,2,45,0
+1079,Sarubbi Saverio,1972,I-Trovo (PV),OLYMPIA TROVO,1,2,45,6
+1080,Steffanina Thierry,1965,Cassina d'Agno,trygio,1,2,47,1
+1081,Camarca Giuseppe,1964,Pedrinate,UBS TEAM,1,2,47,4
+1082,Dossi Massimo,1997,Stabio,LARIS FIDUCIARIA,1,2,47,8
+1083,Ausilio Giovanni,1956,Maroggia,Aptar Mezzovico SA,1,2,50,2
+1084,Türkyilamz Ivan,1986,Moleno,,1,2,58,3
+1085,Caverzasio Michele,1968,Aldesago,,1,2,58,4
+1086,Bertagni Aldo,1956,Claro,,1,2,59,1
+1087,Catala Bonafonte Eugenio,1984,E-Paracuellos de Jarama,,1,3,1,7
+1088,Shekhter Sergey,1984,Lugano,TELF AG,1,3,5,1
+1089,Vismara David,1994,Vezia,,1,3,5,2
+1090,Bernasconi Matteo,1964,I-Olgiate Comasco (CO),IMPLENIA SVIZZERA SA,1,3,5,3
+1091,Magistro Massimo,1968,I-Lavena Ponte Tresa (VA),IBSA,1,3,6,9
+1092,Nocelli Luca,1965,I-Luino (VA),IBSA,1,3,7,1
+1093,Guidotti Pier Giorgio,1952,Sementina,GS Molinera,1,3,8,8
+1094,Piras Dario,1985,I-Casnate (CO),Accenture Spa,1,3,9,5
+1095,Curty Christophe,1991,Avry-sur-Matran,IMPLENIA SVIZZERA SA,1,3,9,7
+1096,Saldarini Geo,1989,Sant'Antonio,,1,3,12,4
+1097,Rausis Dominique,1985,Cressier NE,Full Metal Raclette,1,3,19,5
+1098,Winkelmann Rolf,1962,Baar,,1,3,37,1
+1099,Livio Paolo,1982,I-Lurate Caccivio (CO),Comal.ch,1,3,49,3
+1100,Biasi Flavio,1969,Comano,,1,3,50,3
+1100,Colombo Alessandro,1964,I-Inverigo (CO),Clinica Ars Medica,1,3,50,3
+1102,Rosselli Enea,1971,Coldrerio,IBSA,1,4,0,8
+1103,Colombo Andrea,1986,Lugano,PWC LUGANO,1,4,2,7
+1104,Bischof Marco,1975,Corteglia,,1,4,7,6
+1105,Giorgetti Gianluca,1975,I-Mesenzana (VA),,1,4,7,8
+1106,Weichlinger Hans,1946,Nennigkofen,Weissenstein Runners,1,4,9,6
+1107,Bürki Edy,1946,Zuchwil,Weissenstein Runners,1,4,10,5
+1108,Lepelletier Bastien,1995,Giubiasco,Aptar Mezzovico SA,1,4,17,0
+1109,Balletta Davide,1981,Dino,IMPLENIA SVIZZERA SA,1,4,21,9
+1110,Barletta Pietro,1959,Bedano,UBS TEAM,1,4,22,1
+1111,Panozzo Marco,1955,Breganzona,BSI SA,1,4,23,8
+1112,Rota Arnaldo,1961,Riva San Vitale,,1,4,24,9
+1113,Portioli Cristiano,1970,Ponte Capriasca,Aptar Mezzovico SA,1,4,30,3
+1114,Bauza Sito,1975,E-Palma de Mallorca,Run Me Tender,1,4,31,5
+1115,Mezzanzanica Manuel,1989,I-Parabiago (MI),,1,4,33,5
+1116,Maalouf Ziad Boulos,1975,Paradiso,Tri Team Ticino,1,4,34,1
+1117,Rovaris Stefano,1979,I-Lurate Caccivio (CO),,1,4,46,5
+1118,Beretta Piccoli Fabrizio,1984,Zollikofen,,1,4,51,3
+1119,Cadorin Athos,1974,Purasca,EDIMEN,1,5,1,9
+1120,Castelnuovo Mirco,1990,Lugaggia,AIL Team,1,5,4,2
+1121,Di Capua Donato,1964,Genève,,1,5,6,9
+1122,Giaccio Tommaso,1981,I-Grantola (VA),IBSA,1,5,11,2
+1123,Tavasci Gabriele,1976,I-Chiavenna (SO),TAVA BROs,1,5,11,4
+1124,Bianchi Fulvio,1964,I-Trovo (PV),OLYMPIA TROVO,1,5,12,0
+1125,Crisafulli Sebastiano,1964,Sennhof (Winterthur),,1,5,21,5
+1126,Cretti Massimo,1984,Agarone,Linnea Running Team,1,5,22,7
+1127,Cugini Stefano,1972,Echandens-Denges,,1,5,23,4
+1128,Pablé Adrian,1971,Zug,,1,5,29,1
+1129,Di Lallo Maurizio,1960,I-Milano (MI),,1,5,30,8
+1130,Acquistapace Flavio,1959,Bissone,SCA Studio medico Cardiologico,1,5,36,0
+1131,Sarac Cihan,1990,Lugano,IMPLENIA SVIZZERA SA,1,5,48,2
+1132,Onnis Matteo,1984,Lugano,,1,5,48,3
+1132,Salaorni Paolo,1965,Giubiasco,,1,5,48,3
+1134,Rezzonico Boris,1968,Lugano,,1,5,50,9
+1135,Setter Alberto,1947,Viganello,,1,6,1,5
+1136,Arreghini Fabio,1987,I-Germignaga (VA),E-motionevents,1,6,3,6
+1137,Mangiaracina Giovanni,1963,Termine,,1,6,18,4
+1138,Bosia Luca,1998,Comano,,1,6,21,7
+1139,Federico Francesco,1974,I-Luino (VA),A.S.D. CIRCOLO ATLETICA GUARDI,1,6,23,0
+1140,Ranghino Alberto,1960,Lugano,,1,6,26,4
+1141,Anzalone Luca,1991,Taverne,,1,6,31,4
+1142,Pagnamenta Roland,1967,Canobbio,,1,6,37,2
+1143,Covino Gianfranco,1968,Caslano,,1,6,38,0
+1144,Brunatti Alain,1966,Lugaggia,,1,6,38,2
+1145,Covino Simone,2001,Caslano,,1,6,40,0
+1146,Cavallini Marco,1968,Insone,,1,6,43,3
+1147,Garcia Walter,1985,Canobbio,Pöyry Svizzera SA,1,7,12,0
+1148,Pivesan Samuel,1990,Vacallo,UBS TEAM,1,7,19,5
+1149,Forsey Edward,1998,Les Brenets,,1,7,24,3
+1150,Di Prenda Donato,1965,Chiasso,,1,7,27,5
+1151,Giacomini Tiziano,1998,Castione,UBS TEAM,1,7,30,5
+1152,Giugliemma John,2000,Sobrio,UBS TEAM,1,7,31,3
+1153,Rossinelli Fabio,1962,Davesco-Soragno,,1,7,31,4
+1154,Manganiello Paolino,1991,Lugano,,1,7,35,5
+1155,Palenzona Marco,1965,Konolfingen,,1,7,35,6
+1156,Figini Paolo,1966,Vacallo,UBS TEAM,1,7,45,0
+1157,Vercellati Giosuè,1960,I-Trovo (PV),OLYMPIA TROVO,1,7,46,9
+1158,Cavalera David,1974,Vétroz,,1,7,53,8
+1159,Morselli Vincenzo,1960,Mendrisio,,1,8,1,8
+1160,Rovaris Luca,1984,I-Olgiate Comasco (CO),,1,8,5,9
+1161,Martinelli Gianfranco,1964,I-Villa Guardia (CO),Avaloq,1,8,6,1
+1162,Quadri Marco,1964,Stabio,,1,8,7,9
+1163,Ulloa Davide,1986,Lugano,,1,8,13,2
+1164,Joyce Thomas,1978,Montagnola,TASIS,1,8,14,4
+1165,Fini Cosimo,1980,Lugaggia,,1,8,15,3
+1166,Schnellmann Fabio,1960,Cadro,Città di Lugano,1,8,19,3
+1167,Tessaro Moreno,1969,I-Uggiate (VA),FINRIPPORT SA,1,8,19,4
+1168,Maciocci Romeo,1964,COLLINA D'ORO,IMPLENIA SVIZZERA SA,1,8,19,7
+1169,Bossi Roberto,1967,Bioggio,,1,8,24,1
+1170,Uhlich Dirk,1977,Lungern,,1,8,29,4
+1171,Endriks Emiel,1990,Stalden (Sarnen),,1,8,32,9
+1172,Petrocchi Paolo,1978,Comano,,1,8,57,2
+1173,Veneroni Paolo,1965,I-Trivolzio (PV),OLYMPIA TROVO,1,9,2,1
+1174,Rompre Louis,1978,Brusino Arsizio,Vive le Quebec,1,9,3,0
+1175,Guastella Stefano,1995,I-Porlezza (CO),,1,9,3,3
+1176,Lorenzetti Daniele,1962,Curio,UBS TEAM,1,9,9,9
+1177,Sala Dante,1956,Giubiasco,Triathlon Team Ticino,1,9,19,5
+1178,Zhu Xuanhua,2002,Lausanne,,1,9,21,4
+1179,Bernasconi Riccardo,1970,Balerna,UBS TEAM,1,9,24,4
+1180,Lombardi Stefano,1962,I-Milano (MI),,1,9,40,9
+1181,Taburni Daniele,1981,I-Como (CO),Aptar Mezzovico SA,1,9,50,0
+1182,Bellati Maurizio,1962,Pregassona,,1,10,1,8
+1183,Minazzoli Piero,1952,I-Borgomanero (NO),,1,10,28,6
+1184,Muti Mattia,1990,I-Como (CO),AMAG,1,10,29,6
+1185,Franscella Giovanni,1988,Ponte Tresa,,1,10,52,0
+1186,Bernardoni Mattia,1978,Davesco-Soragno,,1,10,52,1
+1187,Rychen Stéphane,1968,Bern,,1,10,54,1
+1188,Dariol Marco,1967,Lugano,TELF AG,1,11,10,3
+1189,Parise Pietro,1989,Torricella,TELF AG,1,11,18,6
+1190,Hauser Herbert,1976,D-Metzingen,Adidas Schweiz,1,11,20,8
+1191,Rossetti Francesco,1981,Lugano,TEAM GABBANI,1,11,21,5
+1192,Borgonovo Antonio,1980,I-Como (CO),,1,11,26,5
+1193,Pizzo Sebastiano,1958,Camignolo,,1,11,28,0
+1194,Riccobono Salvatore,1981,Vezia,IBSA,1,11,44,4
+1195,Simonato Gianni,1959,Chiasso,ASD Stramilano,1,11,52,3
+1196,Casati Julien,1982,Vevey,Full Metal Raclette,1,11,59,1
+1197,Vacher Jean-Christophe,1982,Cressier NE,Full Metal Raclette,1,12,1,5
+1198,Ribolini Adriano,1959,Lugano,adidas Schweiz,1,12,17,9
+1199,Griesser Erwin,1943,Weiach,PSK,1,12,27,6
+1200,Jost Alar,1971,Männedorf,IMPLENIA SVIZZERA SA,1,12,42,3
+1201,Lenzi Roberto,1976,Giubiasco,IMPLENIA SVIZZERA SA,1,12,50,7
+1202,Camagni Roberto,1960,I-Cantù (CO),,1,13,39,2
+1203,Boanno Salvatore,1976,Arzo,,1,13,45,4
+1204,Vodola Samuele,1987,Balerna,IMPLENIA SVIZZERA SA,1,13,46,5
+1205,Sorgato Giulio,2001,I-Castiglione Olona (VA),Edmondo Franchini SA,1,13,56,1
+1206,Arvonio Domenico,1972,I-Luino (VA),,1,14,2,2
+1207,Adorno Mauro,1971,D-Olching,,1,14,9,5
+1208,Vanoli Cristoforo,1970,I-Venegono Inferiore (VA),TEAM GABBANI,1,14,15,1
+1209,Fossati Andrea,1974,Mendrisio,IBSA,1,14,35,2
+1210,Carli Matteo,1971,I-Padova (PD),,1,14,45,4
+1211,Romer Christian,1984,Zürich,,1,15,4,0
+1212,Mucci Giuseppe,1970,I-Varese (VA),,1,15,4,5
+1213,Gervasini Alessandro,1965,I-Varese (VA),,1,15,7,9
+1214,Zahler Robert,1961,Genève,,1,15,16,8
+1215,Bianchi Gregory,1989,Balerna,,1,15,26,1
+1216,D'Introno Cristian,1983,Porza,LARIS FIDUCIARIA,1,15,27,9
+1217,Rittiner Marc-André,1996,Le Locle,,1,15,30,8
+1218,Bernardi Marco,1970,I-Rubano (PD),United Trail & Running,1,16,3,0
+1218,Gnech Fabrizio,1972,Bellinzona,,1,16,3,0
+1220,Giacomin Paolo,1963,I-Valsolda (CO),,1,16,31,2
+1221,De Lazzari Nicola,1985,I-San Fermo della Battagl,Octoplus Group,1,17,11,2
+1222,Barengo Fabio,1979,Lugano,,1,17,41,6
+1223,Nucera Ygor,1994,I-Cantello (VA),A.S. Sporterapia,1,17,47,1
+1224,Ricci Maurizio,1966,Pregassona,Aptar Mezzovico SA,1,18,30,1
+1225,Segrada Matteo,1972,I-Milano (MI),,1,19,5,7
+1226,Dossena Marco,1973,Breganzona,,1,19,40,4
+1227,Roman Giuseppe Giannino,1946,I-Nerviano (MI),,1,20,0,7
+1228,Bocchi Attilio,1989,Cimo,Swisstransplant,1,20,40,0
+1229,Ligato Domenico,1964,Novazzano,PRECICAST RUNNING TEAM,1,20,53,0
+1230,Bettinelli Gianangelo,1951,I-Pogliano Milanese (MI),,1,20,59,1
+1231,Caelli Renato,1952,Lugano,,1,21,59,5
+1232,Leoni Gionata,1975,Locarno,,1,22,4,3
+1233,Presepio Pierlugi,1960,I-Trovo (PV),OLYMPIA TROVO,1,22,24,9
+1234,Masiero Giovanni,1958,I-Rodero (CO),A.S. Sporterapia,1,22,46,8
+1235,Berner Alex,1960,Lugano,,1,23,5,6
+1236,Latini Mariano,1957,Savosa,,1,23,5,9
+1237,Sole Gaetano,1992,Gravesano,ZURIGO ASSICURAZIONI,1,23,24,9
+1238,Sartore Domenico,1966,Claro,ZURIGO ASSICURAZIONI,1,23,25,6
+1239,Lesinigo Matteo,1984,Porza,Avaloq,1,23,41,9
+1240,Minola Stefano,1964,I-Olgiate Comasco (CO),IMPLENIA SVIZZERA SA,1,25,11,0
+1241,Benini Gian Luca,1969,Origlio,UBS TEAM,1,25,29,1
+1242,Enne Silvano,1964,Balerna,Comal.ch,1,26,5,5
