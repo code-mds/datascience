@@ -1,2 +1,3 @@
-# SUPSI - data science
-* progetto Analisi su Atalanta Calcio
+# SUPSI - Data Science
+* Python Exercises
+* Data Science Project on Atalanta Calcio
